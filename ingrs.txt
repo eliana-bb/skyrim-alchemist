@@ -328,7 +328,6 @@ Restore Stamina Restore Stamina	Fortify Destruction Fortify Destruction	Fortify 
 SR-icon-ingredient-Yellow Mountain Flower.png	Yellow Mountain FlowerDG
 xx002a78	Harvested from the yellow variety of Mountain Flower.
 Resist Poison Resist Poison	Fortify Restoration Fortify Restoration (1.25×Magnitude)	Fortify Health Fortify Health	Damage Stamina Regen Damage Stamina Regen	2	0.1	None
-Ingredient Name (ID)	Primary Effect	Secondary Effect	Tertiary Effect	Quaternary Effect	Value	Weight	Merchant Avail.	Garden
 SR-icon-ingredient-Alocasia Fruit.png	Alocasia Fruit
 FExxxD62	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
 Regenerate Stamina Regenerate Stamina (1.2×Magnitude,1.22×Value)	Light Light	Ravage Magicka Ravage Magicka (1.5×Magnitude,1.56×Value)	Regenerate Health Regenerate Health (1.2×Magnitude,1.22×Value)	22	0.25
