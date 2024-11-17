@@ -1,4 +1,4 @@
-ingr_effects = {
+ingr_effects = { # effect, magnitude, duration, value
     'Abecean Longfin': (('Weakness to Frost', 1.0, 1.0, 1.0),
                         ('Fortify Sneak', 1.0, 1.0, 1.0),
                         ('Weakness to Poison', 1.0, 1.0, 1.0),
