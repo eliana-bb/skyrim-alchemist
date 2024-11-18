@@ -1,552 +1,185 @@
-SR-icon-ingredient-Abecean Longfin.png	Abecean Longfin
-00106e1b	Collected by catching Abacean Longfin fish.
-Weakness to Frost Weakness to Frost	Fortify Sneak Fortify Sneak	Weakness to Poison Weakness to Poison	Fortify Restoration Fortify Restoration	15	0.5	Common
-SR-icon-ingredient-Aloe Vera Leaves.png	Aloe Vera Leaves
-FExxx0D0	Added by Special Edition Patch 1.6.1130 on December 5, 2023.
-Restore Health Restore Health	Restore Stamina Restore Stamina	Damage Magicka Damage Magicka	Invisibility Invisibility	1	0.1	Khajiit Traders	2
-SR-icon-ingredient-Ancestor Moth Wing.png	Ancestor Moth WingDG
-xx0059ba	Collected by catching Ancestor Moths.
-Damage Stamina Damage Stamina	Fortify Conjuration Fortify Conjuration	Damage Magicka Regen Damage Magicka Regen	Fortify Enchanting Fortify Enchanting	2	0.1	None
-SR-icon-ingredient-Ash Creep Cluster.png	Ash Creep ClusterDB
-xx01cd74	Harvested from creep cluster plants unique to Solstheim.
-Damage Stamina Damage Stamina	Invisibility Invisibility	Resist Fire Resist Fire	Fortify Destruction Fortify Destruction	20	0.25	Rare
-SR-icon-ingredient-Ash Hopper Jelly.png	Ash Hopper JellyDB
-xx01cd71	Collected from dead ash hoppers.
-Restore Health Restore Health	Fortify Light Armor Fortify Light Armor	Resist Shock Resist Shock	Weakness to Frost Weakness to Frost	20	0.25
-SR-icon-ingredient-Ashen Grass Pod.png	Ashen Grass PodDB
-xx016e26	Harvested from spiky grass plants unique to Solstheim.
-Resist Fire Resist Fire (1.33×Magnitude,1.36×Value)	Weakness to Shock Weakness to Shock	Fortify Lockpicking Fortify Lockpicking	Fortify Sneak Fortify Sneak	1	0.1
-SR-icon-ingredient-Bear Claws.png	Bear Claws
-0006bc02	Collected from various types of dead Bears.
-Restore Stamina Restore Stamina (0.8×Magnitude, 0.78×Value)	Fortify Health Fortify Health	Fortify One-handed Fortify One-handed	Damage Magicka Regen Damage Magicka Regen	2	0.1	None (Uncommon)
-SR-icon-ingredient-Bee.png	Bee
-000a9195	Collected from beehives and by catching Bees.
-Restore Stamina Restore Stamina	Ravage Stamina Ravage Stamina	Regenerate Stamina Regenerate Stamina	Weakness to Shock Weakness to Shock	3	0.1	Common
-SR-icon-ingredient-Beehive Husk.png	Beehive Husk
-000a9191	Collected from beehives.
-Resist Poison Resist Poison (0.5×Magnitude)	Fortify Light Armor Fortify Light Armor	Fortify Sneak Fortify Sneak	Fortify Destruction Fortify Destruction	5	1	None (Common)
-SR-icon-ingredient-Bleeding Crown.png	Bleeding Crown
-0004da20	Harvested from Bleeding Crown, a mushroom found in various caves.
-Weakness to Fire Weakness to Fire	Fortify Block Fortify Block	Weakness to Poison Weakness to Poison	Resist Magic Resist Magic	10	0.3	Uncommon	3
-SR-icon-ingredient-Blisterwort.png	Blisterwort
-0004da25	Harvested from Blisterwort mushrooms found in various caves.
-Damage Stamina Damage Stamina	Frenzy Frenzy	Restore Health Restore Health (0.6×Magnitude,0.57×Value)	Fortify Smithing Fortify Smithing	12	0.2	Uncommon	4
-SR-icon-ingredient-Blue Butterfly Wing.png	Blue Butterfly Wing
-000727de	Collected by catching Blue Butterflies. Often found during daylight hours near flowering plants.
-Damage Stamina Damage Stamina	Fortify Conjuration Fortify Conjuration	Damage Magicka Regen Damage Magicka Regen	Fortify Enchanting Fortify Enchanting	2	0.1	Uncommon
-SR-icon-ingredient-Blue Dartwing.png	Blue Dartwing
-000e4f0c	Collected by catching Dragonflies found near rivers and streams below the snow line.
-Resist Shock Resist Shock	Fortify Pickpocket Fortify Pickpocket	Restore Health Restore Health	Fear Fear	1	0.1	None (Uncommon)
-SR-icon-ingredient-Blue Mountain Flower.png	Blue Mountain Flower
-00077e1c	Harvested from the blue variety of Mountain Flower, found throughout Skyrim.
-Restore Health Restore Health	Fortify Conjuration Fortify Conjuration	Fortify Health Fortify Health	Damage Magicka Regen Damage Magicka Regen	2	0.1	Common	3
-SR-icon-ingredient-Boar Tusk.png	Boar TuskDB
-xx01cd6f	Collected from dead bristlebacks and rieklings.
-Fortify Stamina Fortify Stamina (1.25×Magnitude, 5×Duration, 7.5×Value)	Fortify Health Fortify Health (5×Duration, 5.9×Value)	Fortify Block Fortify Block	Frenzy Frenzy	20	0.5
-SR-icon-ingredient-Bone Meal.png	Bone Meal
-00034cdd	Collected from undead such as skeletons, and Draugr.
-Damage Stamina Damage Stamina	Resist Fire Resist Fire	Fortify Conjuration Fortify Conjuration	Ravage Stamina Ravage Stamina	5	0.5	Common
-SR-icon-ingredient-Briar Heart.png	Briar Heart
-0003ad61	Collected from Forsworn Briarhearts.
-Restore Magicka Restore Magicka	Fortify Block Fortify Block (0.5×Magnitude)	Paralysis Paralysis	Fortify Magicka Fortify Magicka	20	0.5	Rare
-SR-icon-ingredient-Burnt Spriggan Wood.png	Burnt Spriggan WoodDB
-xx01cd6e	Collected from dead burnt spriggans.
-Weakness to Fire Weakness to Fire	Fortify Alteration Fortify Alteration	Damage Magicka Regen Damage Magicka Regen	Slow Slow	20	0.5
-SR-icon-ingredient-Butterfly Wing.png	Butterfly Wing
-000727e0	Collected from catching Monarch Butterflies. Often found during daylight hours near flowering plants.
-Restore Health Restore Health	Fortify Barter Fortify Barter	Lingering Damage Stamina Lingering Damage Stamina	Damage Magicka Damage Magicka	3	0.1	Uncommon
-SR-icon-ingredient-Canis Root.png	Canis Root
-0006abcb	Harvested from Canis Root, found in The Rift and Hjaalmarch.
-Damage Stamina Damage Stamina	Fortify One-handed Fortify One-handed	Fortify Marksman Fortify Marksman	Paralysis Paralysis	5	0.1	Uncommon	4
-SR-icon-ingredient-Charred Skeever Hide.png	Charred Skeever Hide
-00052695	Food, collected from dead Skeevers found on roasting spits.
-Restore Stamina Restore Stamina	Cure Disease Cure Disease (0.36×Value)	Resist Poison Resist Poison	Restore Health Restore Health	1	0.5	Uncommon
-SR-icon-ingredient-Chaurus Eggs.png	Chaurus Eggs
-0003ad56	Collected from Chaurus Egg Sacs, found in Falmer caves.
-Weakness to Poison Weakness to Poison	Fortify Stamina Fortify Stamina	Damage Magicka Damage Magicka	Invisibility Invisibility	10	0.2	Uncommon
-SR-icon-ingredient-Chaurus Hunter Antennae.png	Chaurus Hunter AntennaeDG
-xx0183b7	Collected from dead Chaurus Hunters and Chaurus Hunter Fledglings.
-Damage Stamina Damage Stamina	Fortify Conjuration Fortify Conjuration	Damage Magicka Regen Damage Magicka Regen	Fortify Enchanting Fortify Enchanting	2	0.1	None
-SR-icon-ingredient-Chicken's Egg.png	Chicken's Egg
-00023d77	Food, harvested from Chicken nests in various farms.
-Resist Magic Resist Magic	Damage Magicka Regen Damage Magicka Regen	Waterbreathing Waterbreathing	Lingering Damage Stamina Lingering Damage Stamina	2	0.5	Uncommon
-SR-icon-ingredient-Creep Cluster.png	Creep Cluster
-000b2183	Harvested from Creep Cluster, found in the volcanic tundra of Eastmarch.
-Restore Magicka Restore Magicka	Damage Stamina Regen Damage Stamina Regen	Fortify Carry Weight Fortify Carry Weight	Weakness to Magic Weakness to Magic	1	0.2	Uncommon	5
-SR-icon-ingredient-Crimson Nirnroot.png	Crimson Nirnroot
-000b701a	Harvested from Crimson Nirnroot, found in Blackreach, needed for the quest A Return To Your Roots.
-Damage Health Damage Health (3×Magnitude)	Damage Stamina Damage Stamina (3×Magnitude)	Invisibility Invisibility	Resist Magic Resist Magic	10	0.2	None
-SR-icon-ingredient-Cyrodilic Spadetail.png	Cyrodilic Spadetail
-00106e19	Collected by catching Cyrodilic Spadetail fish.
-Damage Stamina Damage Stamina	Fortify Restoration Fortify Restoration	Fear Fear	Ravage Health Ravage Health	15	0.25	Common
-SR-icon-ingredient-Daedra Heart.png	Daedra Heart
-0003ad5b	Collected from dead Dremora.
-Restore Health Restore Health	Damage Stamina Regen Damage Stamina Regen	Damage Magicka Damage Magicka	Fear Fear	250	0.5	Rare
-SR-icon-ingredient-Deathbell.png	Deathbell
-000516c8	Harvested from Deathbell, found in Hjaalmarch. Needed for the quests Few and Far Between and The Only Cure.
-Damage Health Damage Health (1.5×Magnitude)	Ravage Stamina Ravage Stamina (2.1×Value)	Slow Slow	Weakness to Poison Weakness to Poison	4	0.1	Rare	3
-SR-icon-ingredient-Dragons Tongue.png	Dragon's Tongue
-000889a2	Harvested from Dragon's Tongue, found in the volcanic tundra of Eastmarch.
-Resist Fire Resist Fire	Fortify Barter Fortify Barter	Fortify Illusion Fortify Illusion	Fortify Two-handed Fortify Two-handed	5	0.1	Common	4
-SR-icon-ingredient-Dwarven Oil.png	Dwarven Oil
-000f11c0	Collected from destroyed Dwarven Automatons, found in Dwarven Ruins.
-Weakness to Magic Weakness to Magic	Fortify Illusion Fortify Illusion	Regenerate Magicka Regenerate Magicka	Restore Magicka Restore Magicka	15	0.25	Uncommon
-SR-icon-ingredient-Ectoplasm.png	Ectoplasm
-0003ad63	Collected from undead Ghosts.
-Restore Magicka Restore Magicka	Fortify Destruction Fortify Destruction (0.8×Magnitude)	Fortify Magicka Fortify Magicka	Damage Health Damage Health	25	0.1	Uncommon
-SR-icon-ingredient-Elves Ear.png	Elves Ear
-00034d31	Harvested from Dried Elves Ear bunches found in homes and camps.
-Restore Magicka Restore Magicka	Fortify Marksman Fortify Marksman	Weakness to Frost Weakness to Frost	Resist Fire Resist Fire	10	0.1	Common
-SR-icon-ingredient-Emperor Parasol Moss.png	Emperor Parasol MossDB
-xx01ff75	Harvested from emperor parasol moss plants near Tel Mithryn.
-Damage Health Damage Health (1.5×Magnitude)	Fortify Magicka Fortify Magicka	Regenerate Health Regenerate Health	Fortify Two-handed Fortify Two-handed	1	0.25
-SR-icon-ingredient-Eye of Sabre Cat.png	Eye of Sabre Cat
-0006bc07	Collected from dead Sabre Cats.
-Restore Stamina Restore Stamina	Ravage Health Ravage Health	Damage Magicka Damage Magicka	Restore Health Restore Health	2	0.1	None (Uncommon)
-SR-icon-ingredient-Falmer Ear.png	Falmer Ear
-0003ad5d	Collected from dead Falmer.
-Damage Health Damage Health	Frenzy Frenzy	Resist Poison Resist Poison	Fortify Lockpicking Fortify Lockpicking	10	0.2	Uncommon
-SR-icon-ingredient-Felsaad Tern Feathers.png	Felsaad Tern FeathersDB
-xx03cd8e	Collected from dead Felsaad terns.
-Restore Health Restore Health	Fortify Light Armor Fortify Light Armor	Cure Disease Cure Disease	Resist Magic Resist Magic	15	0.1
-SR-icon-ingredient-Fire Salts.png	Fire Salts
-0003ad5e	Collected from dead Flame Atronachs, a type of daedra. Needed for the quest Stoking the Flames.
-Weakness to Frost Weakness to Frost	Resist Fire Resist Fire	Restore Magicka Restore Magicka	Regenerate Magicka Regenerate Magicka	50	0.25	Rare
-SR-icon-ingredient-Fly Amanita.png	Fly Amanita
-0004da00	Harvested from Fly Amanita mushrooms, found in various caves.
-Resist Fire Resist Fire	Fortify Two-handed Fortify Two-handed	Frenzy Frenzy	Regenerate Stamina Regenerate Stamina	2	0.1	Uncommon	4
-SR-icon-ingredient-Frost Mirriam.png	Frost Mirriam
-00034d32	Harvested from Dried Frost Mirriam bunches found in homes and camps.
-Resist Frost Resist Frost	Fortify Sneak Fortify Sneak	Ravage Magicka Ravage Magicka	Damage Stamina Regen Damage Stamina Regen	1	0.1	Uncommon
-SR-icon-ingredient-Frost Salts.png	Frost Salts
-0003ad5f	Collected from dead Frost Atronachs, a type of daedra. One is needed for the quest Dravynea's Frost Salts.
-Weakness to Fire Weakness to Fire	Resist Frost Resist Frost	Restore Magicka Restore Magicka	Fortify Conjuration Fortify Conjuration	100	0.25	Rare
-SR-icon-ingredient-Garlic.png	Garlic
-00034d22	Food. Can also be harvested from Garlic Braids.
-Resist Poison Resist Poison	Fortify Stamina Fortify Stamina	Regenerate Magicka Regenerate Magicka	Regenerate Health Regenerate Health	1	0.25	Common
-SR-icon-ingredient-Giant Lichen.png	Giant Lichen
-0007e8c1	Harvested from Giant Lichen, found in Hjaalmarch.
-Weakness to Shock Weakness to Shock	Ravage Health Ravage Health	Weakness to Poison Weakness to Poison	Restore Magicka Restore Magicka	5	0.25	Uncommon	4
-SR-icon-ingredient-Giants Toe.png	Giant's Toe
-0003ad64	Collected from dead Giants, which can be found in Giant Camps.
-Damage Stamina Damage Stamina	Fortify Health Fortify Health (5×Duration, 5.9×Value)	Fortify Carry Weight Fortify Carry Weight	Damage Stamina Regen Damage Stamina Regen	20	1	Rare
-SR-icon-ingredient-Gleamblossom.png	GleamblossomDG
-xx00b097	Harvested from the plant of the same name.
-Resist Magic Resist Magic	Fear Fear	Regenerate Health Regenerate Health	Paralysis Paralysis	5	0.1	None
-SR-icon-ingredient-Glow Dust.png	Glow Dust
-0003ad73	Collected from dead Wisps and Wispmothers.
-Damage Magicka Damage Magicka	Damage Magicka Regen Damage Magicka Regen	Fortify Destruction Fortify Destruction	Resist Shock Resist Shock	20	0.5	Uncommon
-SR-icon-ingredient-Glowing Mushroom.png	Glowing Mushroom
-0007ee01	Harvested from Glowing Mushrooms, found in various caves.
-Resist Shock Resist Shock	Fortify Destruction Fortify Destruction	Fortify Smithing Fortify Smithing	Fortify Health Fortify Health	5	0.2	None	5
-SR-icon-ingredient-Grass Pod.png	Grass Pod
-00083e64	Harvested from Spiky Grass, found in northern regions of Skyrim.
-Resist Poison Resist Poison	Ravage Magicka Ravage Magicka	Fortify Alteration Fortify Alteration	Restore Magicka Restore Magicka	1	0.1	Uncommon	3
-SR-icon-ingredient-Hagraven Claw.png	Hagraven Claw
-0006b689	Collected from dead Hagravens.
-Resist Magic Resist Magic	Lingering Damage Magicka Lingering Damage Magicka	Fortify Enchanting Fortify Enchanting	Fortify Barter Fortify Barter	20	0.25	Rare
-SR-icon-ingredient-Hagraven Feathers.png	Hagraven Feathers
-0003ad66	Collected from dead Hagravens. Can also be found scattered around their sleeping areas.
-Damage Magicka Damage Magicka	Fortify Conjuration Fortify Conjuration	Frenzy Frenzy	Weakness to Shock Weakness to Shock	20	0.1	Rare
-SR-icon-ingredient-Hanging Moss.png	Hanging Moss
-00057f91	Harvested from Hanging Moss.
-Damage Magicka Damage Magicka	Fortify Health Fortify Health	Damage Magicka Regen Damage Magicka Regen	Fortify One-handed Fortify One-handed	1	0.25	Uncommon
-SR-icon-ingredient-Hawk Beak.png	Hawk Beak
-000e7ebc	Collected from dead Hawks.
-Restore Stamina Restore Stamina	Resist Frost Resist Frost	Fortify Carry Weight Fortify Carry Weight	Resist Shock Resist Shock	15	0.25	Uncommon
-SR-icon-ingredient-Hawk Feathers.png	Hawk Feathers
-000e7ed0	Collected from dead Hawks.
-Cure Disease Cure Disease (0.36×Value)	Fortify Light Armor Fortify Light Armor	Fortify One-handed Fortify One-handed	Fortify Sneak Fortify Sneak	15	0.1	Uncommon
-SR-icon-ingredient-Hawk's Egg.png	Hawk's EggHF
-xx00f1cc	Harvested from Hawk nests.
-Resist Magic Resist Magic	Damage Magicka Regen Damage Magicka Regen	Waterbreathing Waterbreathing	Lingering Damage Stamina Lingering Damage Stamina	5	0.5	None
-SR-icon-ingredient-Histcarp.png	Histcarp
-00106e18	Collected by catching Histcarp fish.
-Restore Stamina Restore Stamina	Fortify Magicka Fortify Magicka	Damage Stamina Regen Damage Stamina Regen	Waterbreathing Waterbreathing	6	0.25	Common
-SR-icon-ingredient-Honeycomb.png	Honeycomb
-000b08c5	Food. Collected from beehives.
-Restore Stamina Restore Stamina	Fortify Block Fortify Block (0.5×Magnitude)	Fortify Light Armor Fortify Light Armor	Ravage Stamina Ravage Stamina	5	1	None (Common)
-SR-icon-ingredient-Human Flesh.png	Human Flesh
-001016b3	Cannot be harvested or collected; with the Dawnguard add-on installed, several respawning samples can be found in Volkihar Keep.
-Damage Health Damage Health	Paralysis Paralysis	Restore Magicka Restore Magicka	Fortify Sneak Fortify Sneak	1	0.25	None
-SR-icon-ingredient-Human Heart.png	Human Heart
-000b18cd	Cannot be harvested or collected; limited number of samples available.
-Damage Health Damage Health	Damage Magicka Damage Magicka	Damage Magicka Regen Damage Magicka Regen	Frenzy Frenzy	0	1	None
-SR-icon-ingredient-Ice Wraith Teeth.png	Ice Wraith Teeth
-0003ad6a	Collected from Ice Wraiths. Needed for the quest Ice Cold.
-Weakness to Frost Weakness to Frost	Fortify Heavy Armor Fortify Heavy Armor	Invisibility Invisibility	Weakness to Fire Weakness to Fire	30	0.25	Rare
-SR-icon-ingredient-Imp Stool.png	Imp Stool
-0004da23	Harvested from Imp Stool mushrooms, found in various caves.
-Damage Health Damage Health	Lingering Damage Health Lingering Damage Health	Paralysis Paralysis	Restore Health Restore Health (0.6×Magnitude,0.57×Value)	0	0.3	Rare	4
-SR-icon-ingredient-Jazbay Grapes.png	Jazbay Grapes
-0006ac4a	Harvested from Jazbay vines, found in the volcanic tundra of Eastmarch. Needed for the quest Smooth Jazbay.
-Weakness to Magic Weakness to Magic	Fortify Magicka Fortify Magicka	Regenerate Magicka Regenerate Magicka	Ravage Health Ravage Health	1	0.2	Rare	3
-SR-icon-ingredient-Juniper Berries.png	Juniper Berries
-0005076e	Harvested from Juniper shrubs, common in The Reach. Needed for the quest Elmus Favor Quest.
-Weakness to Fire Weakness to Fire	Fortify Marksman Fortify Marksman	Regenerate Health Regenerate Health	Damage Stamina Regen Damage Stamina Regen	1	0.1	Common	4
-SR-icon-ingredient-Large Antlers.png	Large Antlers
-0006bc0a	Collected from dead male Elk.
-Restore Stamina Restore Stamina	Fortify Stamina Fortify Stamina	Slow Slow (6×Duration, 1.75×Value)	Damage Stamina Regen Damage Stamina Regen	2	0.1	None (Uncommon)
-SR-icon-ingredient-Lavender.png	Lavender
-00045c28	Harvested from Lavender, most common in Whiterun Hold.
-Resist Magic Resist Magic	Fortify Stamina Fortify Stamina	Ravage Magicka Ravage Magicka	Fortify Conjuration Fortify Conjuration	1	0.1	Common	3
-SR-icon-ingredient-Luna Moth Wing.png	Luna Moth Wing
-000727df	Collected by catching Luna Moths. Often found near flowers after dark.
-Damage Magicka Damage Magicka	Fortify Light Armor Fortify Light Armor	Regenerate Health Regenerate Health	Invisibility Invisibility	5	0.1	Uncommon
-SR-icon-ingredient-Moon Sugar.png	Moon Sugar
-000d8e3f	Cannot be collected or harvested. Can be purchased from the Khajiit Traders.
-Weakness to Fire Weakness to Fire	Resist Frost Resist Frost	Restore Magicka Restore Magicka	Regenerate Magicka Regenerate Magicka	50	0.25	Uncommon
-SR-icon-ingredient-Mora Tapinella.png	Mora Tapinella
-000ec870	Harvested from Mora Tapinella mushrooms, found growing on dead trees.
-Restore Magicka Restore Magicka	Lingering Damage Health Lingering Damage Health	Regenerate Stamina Regenerate Stamina	Fortify Illusion Fortify Illusion	4	0.25	Uncommon	3
-SR-icon-ingredient-Mudcrab Chitin.png	Mudcrab Chitin
-0006bc00	Collected from dead Mudcrabs, found in or near bodies of water.
-Restore Stamina Restore Stamina	Cure Disease Cure Disease	Resist Poison Resist Poison	Resist Fire Resist Fire	2	0.25	None (Common)
-SR-icon-ingredient-Namira's Rot.png	Namira's Rot
-0004da24	Harvested from Namira's Rot mushrooms, found in various caves.
-Damage Magicka Damage Magicka	Fortify Lockpicking Fortify Lockpicking	Fear Fear	Regenerate Health Regenerate Health	0	0.25	Uncommon	3
-SR-icon-ingredient-Netch Jelly.png	Netch JellyDB
-xx01cd72	Collected from dead netch.
-Paralysis Paralysis	Fortify Carry Weight Fortify Carry Weight	Restore Stamina Restore Stamina (2×Magnitude)	Fear Fear	20	0.5
-SR-icon-ingredient-Nightshade.png	Nightshade
-0002f44c	Harvested from Nightshade, found growing throughout Skyrim. Needed for the quest Few and Far Between.
-Damage Health Damage Health	Damage Magicka Regen Damage Magicka Regen	Lingering Damage Stamina Lingering Damage Stamina	Fortify Destruction Fortify Destruction (0.8×Magnitude)	8	0.1	Rare	3
-SR-icon-ingredient-Nirnroot.png	Nirnroot
-00059b86	Harvested from Nirnroot, found near bodies of water throughout Skyrim. Needed for the quest Few and Far Between.
-Damage Health Damage Health (12.6×Value)	Damage Stamina Damage Stamina	Invisibility Invisibility	Resist Magic Resist Magic	10	0.2	Rare
-SR-icon-ingredient-Nordic Barnacle.png	Nordic Barnacle
-0007edf5	Harvested from Nordic Barnacle Clusters, found in or near water.
-Damage Magicka Damage Magicka	Waterbreathing Waterbreathing	Regenerate Health Regenerate Health	Fortify Pickpocket Fortify Pickpocket	5	0.2	Uncommon
-SR-icon-ingredient-Orange Dartwing.png	Orange Dartwing
-000bb956	Collected by catching Dragonflies found near rivers and streams below the snow line.
-Restore Stamina Restore Stamina	Ravage Magicka Ravage Magicka	Fortify Pickpocket Fortify Pickpocket	Lingering Damage Health Lingering Damage Health	1	0.1	None (Common)
-SR-icon-ingredient-Pearl.png	Pearl
-000854fe	Cannot be harvested or collected in the original version of the game; only readily available after the Merchant perk has been unlocked. With Dragonborn, they can be harvested from Pearl Oysters in Solstheim.
-Restore Stamina Restore Stamina	Fortify Block Fortify Block	Restore Magicka Restore Magicka	Resist Shock Resist Shock	2	0.1	None (Uncommon)
-SR-icon-ingredient-Pine Thrush Egg.png	Pine Thrush Egg
-00023d6f	Harvested from bird nests in forested regions, in particular The Rift.
-Restore Stamina Restore Stamina	Fortify Lockpicking Fortify Lockpicking	Weakness to Poison Weakness to Poison	Resist Shock Resist Shock	2	0.5	Common
-SR-icon-ingredient-Poison Bloom.png	Poison BloomDG
-xx0185fb	Harvested from the plant of the same name.
-Damage Health Damage Health (1.5×Magnitude)	Slow Slow	Fortify Carry Weight Fortify Carry Weight	Fear Fear	5	0.25	None
-SR-icon-ingredient-Powdered Mammoth Tusk.png	Powdered Mammoth Tusk
-0006bc10	Cannot be harvested or collected; only readily available after the Merchant perk has been unlocked.
-Restore Stamina Restore Stamina	Fortify Sneak Fortify Sneak	Weakness to Fire Weakness to Fire	Fear Fear	2	0.1	None (Uncommon)
-SR-icon-ingredient-Purple Mountain Flower.png	Purple Mountain Flower
-00077e1e	Harvested from the purple variety of Mountain Flower.
-Restore Stamina Restore Stamina	Fortify Sneak Fortify Sneak	Lingering Damage Magicka Lingering Damage Magicka	Resist Frost Resist Frost	2	0.1	Common	3
-SR-icon-ingredient-Red Mountain Flower.png	Red Mountain Flower
-00077e1d	Harvested from the red variety of Mountain Flower.
-Restore Magicka Restore Magicka	Ravage Magicka Ravage Magicka	Fortify Magicka Fortify Magicka	Damage Health Damage Health	2	0.1	Common	3
-SR-icon-ingredient-River Betty.png	River Betty
-00106e1a	Collected by catching River Betty fish.
-Damage Health Damage Health (2.5×Magnitude)	Fortify Alteration Fortify Alteration	Slow Slow	Fortify Carry Weight Fortify Carry Weight	15	0.25	Common
-SR-icon-ingredient-Rock Warbler Egg.png	Rock Warbler Egg
-0007e8c8	Harvested from bird nests in rocky regions, in particular The Reach.
-Restore Health Restore Health	Fortify One-handed Fortify One-handed	Damage Stamina Damage Stamina	Weakness to Magic Weakness to Magic	2	0.5	Uncommon
-SR-icon-ingredient-Sabre Cat Tooth.png	Sabre Cat Tooth
-0006bc04	Collected from dead Sabre cats.
-Restore Stamina Restore Stamina	Fortify Heavy Armor Fortify Heavy Armor	Fortify Smithing Fortify Smithing	Weakness to Poison Weakness to Poison	2	0.1	None (Uncommon)
-SR-icon-ingredient-Salmon Roe.png	Salmon RoeHF
-xx003545	Harvested from jumping Salmon.
-Restore Stamina Restore Stamina (0.4×Magnitude, 0.36×Value)	Waterbreathing Waterbreathing (12×Duration, 15.4×Value)	Fortify Magicka Fortify Magicka (12.5×Magnitude, 0.08×Duration, 1.05×Value)	Regenerate Magicka Regenerate Magicka	5	0.2	None
-SR-icon-ingredient-Salt Pile.png	Salt Pile
-00034cdf	Food. Cannot be harvested or collected, but is commonly found in barrels and sacks.
-Weakness to Magic Weakness to Magic	Fortify Restoration Fortify Restoration	Slow Slow	Regenerate Magicka Regenerate Magicka	2	0.2	Common
-SR-icon-ingredient-Scaly Pholiota.png	Scaly Pholiota
-0006f950	Harvested from Scaly Pholiota mushrooms, found growing on dead trees.
-Weakness to Magic Weakness to Magic	Fortify Illusion Fortify Illusion	Regenerate Stamina Regenerate Stamina	Fortify Carry Weight Fortify Carry Weight	4	0.25	Uncommon	5
-SR-icon-ingredient-Scathecraw.png	ScathecrawDB
-xx017e97	Harvested from scathecraw plants.
-Ravage Health Ravage Health	Ravage Stamina Ravage Stamina	Ravage Magicka Ravage Magicka	Lingering Damage Health Lingering Damage Health	1	0.1
-SR-icon-ingredient-Silverside Perch.png	Silverside Perch
-00106e1c	Collected by catching Silverside Perch fish.
-Restore Stamina Restore Stamina	Damage Stamina Regen Damage Stamina Regen	Ravage Health Ravage Health	Resist Frost Resist Frost	15	0.25	Common
-SR-icon-ingredient-Skeever Tail.png	Skeever Tail
-0003ad6f	Collected from dead Skeevers.
-Damage Stamina Regen Damage Stamina Regen	Ravage Health Ravage Health	Damage Health Damage Health	Fortify Light Armor Fortify Light Armor	3	0.2	Common
-SR-icon-ingredient-Slaughterfish Egg.png	Slaughterfish Egg
-0007e8c5	Collected from Slaughterfish Egg Nests, found in or near water.
-Resist Poison Resist Poison	Fortify Pickpocket Fortify Pickpocket	Lingering Damage Health Lingering Damage Health	Fortify Stamina Fortify Stamina	3	0.2	Uncommon
-SR-icon-ingredient-Slaughterfish Scales.png	Slaughterfish Scales
-0003ad70	Collected from dead Slaughterfish.
-Resist Frost Resist Frost	Lingering Damage Health Lingering Damage Health	Fortify Heavy Armor Fortify Heavy Armor	Fortify Block Fortify Block	3	0.1	Uncommon
-SR-icon-ingredient-Small Antlers.png	Small Antlers
-0006bc0b	Collected from dead female Elk.
-Weakness to Poison Weakness to Poison	Fortify Restoration Fortify Restoration	Lingering Damage Stamina Lingering Damage Stamina	Damage Health Damage Health	2	0.1	None (Common)
-SR-icon-ingredient-Small Pearl.png	Small Pearl
-00085500	Cannot be harvested or collected in the original version of the game; only readily available after the Merchant perk has been unlocked. With Dragonborn, they can be harvested from Pearl Oysters in Solstheim.
-Restore Stamina Restore Stamina	Fortify One-handed Fortify One-handed	Fortify Restoration Fortify Restoration	Resist Frost Resist Frost	2	0.1	None (Uncommon)
-SR-icon-ingredient-Snowberries.png	Snowberries
-0001b3bd	Harvested from Snowberry bushes, found in snowy regions of Skyrim.
-Resist Fire Resist Fire	Fortify Enchanting Fortify Enchanting	Resist Frost Resist Frost	Resist Shock Resist Shock	4	0.1	Common	4
-SR-icon-ingredient-Spawn Ash.png	Spawn AshDB
-xx01cd6d	Collected from dead ash spawn.
-Ravage Stamina Ravage Stamina	Resist Fire Resist Fire	Fortify Enchanting Fortify Enchanting	Ravage Magicka Ravage Magicka	20	0.1
-SR-icon-ingredient-Spider Egg.png	Spider Egg
-0009151b	Collected from spider Egg Sacs and Web Sacs.
-Damage Stamina Damage Stamina	Damage Magicka Regen Damage Magicka Regen	Fortify Lockpicking Fortify Lockpicking	Fortify Marksman Fortify Marksman	5	0.2	Uncommon
-SR-icon-ingredient-Spriggan Sap.png	Spriggan Sap
-00063b5f	Cannot be harvested or collected; best source is merchants.
-Damage Magicka Regen Damage Magicka Regen	Fortify Enchanting Fortify Enchanting	Fortify Smithing Fortify Smithing	Fortify Alteration Fortify Alteration	15	0.2	Uncommon
-SR-icon-ingredient-Swamp Fungal Pod.png	Swamp Fungal Pod
-0007e8b7	Harvested from Swamp Fungal Pod, common in the tundra marsh of Hjaalmarch.
-Resist Shock Resist Shock	Lingering Damage Magicka Lingering Damage Magicka	Paralysis Paralysis	Restore Health Restore Health	5	0.25	Uncommon	3
-SR-icon-ingredient-Taproot.png	Taproot
-0003ad71	Collected from dead Spriggans.
-Weakness to Magic Weakness to Magic	Fortify Illusion Fortify Illusion	Regenerate Magicka Regenerate Magicka	Restore Magicka Restore Magicka	15	0.5	Uncommon
-SR-icon-ingredient-Thistle Branch.png	Thistle Branch
-000134aa	Harvested from Thistle.
-Resist Frost Resist Frost	Ravage Stamina Ravage Stamina	Resist Poison Resist Poison (0.75×Magnitude,0×Duration,0.1×Value)	Fortify Heavy Armor Fortify Heavy Armor	1	0.1	Common	3
-SR-icon-ingredient-Torchbug Thorax.png	Torchbug Thorax
-0004da73	Collected by catching Torchbugs. Found below the snowline after dark.
-Restore Stamina Restore Stamina	Lingering Damage Magicka Lingering Damage Magicka	Weakness to Magic Weakness to Magic	Fortify Stamina Fortify Stamina	1	0.1	None (Common)
-SR-icon-ingredient-Trama Root.png	Trama RootDB
-xx017008	Harvested from trama root plants.
-Weakness to Shock Weakness to Shock	Fortify Carry Weight Fortify Carry Weight	Damage Magicka Damage Magicka	Slow Slow	1	0.2
-SR-icon-ingredient-Troll Fat.png	Troll Fat
-0003ad72	Collected from dead Trolls. Needed for the quest The Cursed Tribe.
-Resist Poison Resist Poison	Fortify Two-handed Fortify Two-handed	Frenzy Frenzy	Damage Health Damage Health	15	1	Uncommon
-SR-icon-ingredient-Tundra Cotton.png	Tundra Cotton
-0003f7f8	Harvested from Tundra Cotton, found in Whiterun Hold.
-Resist Magic Resist Magic	Fortify Magicka Fortify Magicka	Fortify Block Fortify Block	Fortify Barter Fortify Barter	1	0.1	Common	3
-SR-icon-ingredient-Vampire Dust.png	Vampire Dust
-0003ad76	Collected from dead Vampires.
-Invisibility Invisibility	Restore Magicka Restore Magicka	Regenerate Health Regenerate Health	Cure Disease Cure Disease	25	0.2	Rare
-SR-icon-ingredient-Void Salts.png	Void Salts
-0003ad60	Collected from dead Storm Atronachs.
-Weakness to Shock Weakness to Shock	Resist Magic Resist Magic	Damage Health Damage Health	Fortify Magicka Fortify Magicka	125	0.2	Rare
-SR-icon-ingredient-Wheat.png	Wheat
-0004b0ba	Food. Harvested from wheat bushels, found in various farms.
-Restore Health Restore Health	Fortify Health Fortify Health	Damage Stamina Regen Damage Stamina Regen	Lingering Damage Magicka Lingering Damage Magicka	5	0.1	Common	4
-SR-icon-ingredient-White Cap.png	White Cap
-0004da22	Harvested from White Cap mushrooms, found in various caves.
-Weakness to Frost Weakness to Frost	Fortify Heavy Armor Fortify Heavy Armor	Restore Magicka Restore Magicka	Ravage Magicka Ravage Magicka	0	0.3	Uncommon	2
-SR-icon-ingredient-Wisp Wrappings.png	Wisp Wrappings
-0006bc0e	Collected from dead Wispmothers.
-Restore Stamina Restore Stamina	Fortify Destruction Fortify Destruction	Fortify Carry Weight Fortify Carry Weight	Resist Magic Resist Magic	2	0.1	None (Uncommon)
-SR-icon-ingredient-Yellow Mountain Flower.png	Yellow Mountain FlowerDG
-xx002a78	Harvested from the yellow variety of Mountain Flower.
-Resist Poison Resist Poison	Fortify Restoration Fortify Restoration (1.25×Magnitude)	Fortify Health Fortify Health	Damage Stamina Regen Damage Stamina Regen	2	0.1	None
-SR-icon-ingredient-Alocasia Fruit.png	Alocasia Fruit
-FExxxD62	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Regenerate Stamina Regenerate Stamina (1.2×Magnitude,1.22×Value)	Light Light	Ravage Magicka Ravage Magicka (1.5×Magnitude,1.56×Value)	Regenerate Health Regenerate Health (1.2×Magnitude,1.22×Value)	22	0.25
-SR-icon-ingredient-Ambrosia.png	Ambrosia
-FExxx836	Originating from Mankar Camoran's destroyed realm of Oblivion. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Health Restore Health (1.2×Magnitude,1.22×Value)	Regenerate Health Regenerate Health (1.2×Magnitude,1.22×Value)	Fortify Health Fortify Health (1.25×Magnitude,1.27×Value)	Cure Poison Cure Poison (1.56×Value)	15	0.1
-SR-icon-ingredient-Angelfish.png	Angelfish
-xx0008EB	Caught by Fishing in temperate lakes with an Alik'ri rod, or in the Ancestor Glade.
-Regenerate Health Regenerate Health	Resist Fire Resist Fire	Fortify Marksman Fortify Marksman	Waterbreathing Waterbreathing	30	0.25
-SR-icon-ingredient-Angler Larvae.png	Angler Larvae
-xx0008F0	Caught by Fishing in freezing waters.
-Lingering Damage Health Lingering Damage Health	Regenerate Stamina Regenerate Stamina	Waterbreathing Waterbreathing	Fortify Two-handed Fortify Two-handed	1	0.25
-SR-icon-ingredient-Aster Bloom Core.png	Aster Bloom Core
-FExxxD66	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Resist Magic Resist Magic (2×Magnitude,2.14×Value)	Fortify Light Armor Fortify Light Armor (2×Magnitude,2.14×Value)	Fortify Block Fortify Block (1.25×Magnitude,1.27×Value)	Paralysis Paralysis (2×Duration,2.14×Value)	40	0.1
-SR-icon-ingredient-Bittergreen Petals.png	Bittergreen Petals
-FExxxD68	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Lingering Damage Stamina Lingering Damage Stamina (2×Magnitude,2.14×Value)	Invisibility Invisibility (1.5×Duration,1.56×Value)	Cure Poison Cure Poison	Damage Magicka Damage Magicka (1.5×Magnitude,1.56×Value)	25	0.1
-SR-icon-ingredient-Blind Watcher's Eye.png	Blind Watcher's Eye
-FExxx822	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Light Light	Fortify Magicka Fortify Magicka (1.25×Magnitude,1.27×Value)	Fortify Alteration Fortify Alteration (1.25×Magnitude,1.27×Value)	Spell Absorption Spell Absorption	9	0.2
-SR-icon-ingredient-Bliss Bug Thorax.png	Bliss Bug Thorax
-xx059155	Harvested by Saints & Seducers.
-Weakness to Fire Weakness to Fire	Resist Fire Resist Fire	Fortify Heavy Armor Fortify Heavy Armor	Fortify Illusion Fortify Illusion (0.25×Magnitude,0.21×Value)	1	0.1
-SR-icon-ingredient-Blister Pod Cap.png	Blister Pod Cap
-FExxxD6A	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Magicka Restore Magicka (1.2×Magnitude,1.22×Value)	Fortify Magicka Fortify Magicka (1.25×Magnitude,1.27×Value)	Night Eye Night Eye	Invisibility Invisibility (1.5×Duration,1.56×Value)	25	0.1
-SR-icon-ingredient-Bloodgrass.png	Bloodgrass
-xx024C13	Harvested from the Deadlands, if one has The Cause to go there.
-Invisibility Invisibility	Resist Poison Resist Poison	Slow Slow (6×Duration,0.57×Value)	Fortify Health Fortify Health (1.25×Magnitude,1.27×Value)	25	0.1
-SR-icon-ingredient-Bog Beacon.png	Bog Beacon
-FExxxD6C	Originating from Cyrodiil. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Magicka Restore Magicka (1.2×Magnitude,1.22×Value)	Fortify Heavy Armor Fortify Heavy Armor (1.5×Magnitude,1.56×Value)	Fear Fear (2×Magnitude,2.14×Value)	Damage Stamina Damage Stamina (1.33×Magnitude,1.36×Value)	20	0.1
-SR-icon-ingredient-Bungler's Bane.png	Bungler's Bane
-FExxx802	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Slow Slow (2×Duration,2.14×Value)	Ravage Stamina Ravage Stamina (1.5×Magnitude,3.34×Value)	Damage Stamina Regen Damage Stamina Regen (2×Duration,2.14×Value)	Resist Magic Resist Magic (2×Magnitude,2.14×Value)	50	0.5
-SR-icon-ingredient-Chokeberry.png	Chokeberry
-FExxx838	Originating from the vile lair of a Cyrodiilic vampire assassin. One of the Rare Curios sold by Khajiit trade caravans.
-Damage Health Damage Health (1.5×Magnitude,1.56×Value)	Ravage Health Ravage Health (1.5×Magnitude,3.34×Value)	Lingering Damage Health Lingering Damage Health (2×Magnitude,2.14×Value)	Weakness to Poison Weakness to Poison (1.5×Magnitude,1.56×Value)	15	0.1
-SR-icon-ingredient-Chokeweed.png	Chokeweed
-FExxx804	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Weakness to Frost Weakness to Frost (1.33×Magnitude,1.37×Value)	Restore Stamina Restore Stamina (1.2×Magnitude,1.22×Value)	Cure Disease Cure Disease (0.36×Value)	Damage Magicka Damage Magicka (1.33×Magnitude,1.37×Value)	7	0.1
-SR-icon-ingredient-Coda Flower.png	Coda Flower
-FExxx805	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Damage Health Damage Health (1.5×Magnitude,1.56×Value)	Lingering Damage Stamina Lingering Damage Stamina (2×Magnitude,2.14×Value)	Ravage Magicka Ravage Magicka (1.5×Magnitude,1.56×Value)	Fortify Carry Weight Fortify Carry Weight (1.25×Magnitude,1.27×Value)	30	0.1
-SR-icon-ingredient-Comberry.png	Comberry
-FExxx806	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Damage Stamina Damage Stamina (1.33×Magnitude,1.36×Value)	Spell Absorption Spell Absorption	Restore Magicka Restore Magicka (1.2×Magnitude,1.22×Value)	Fortify Destruction Fortify Destruction (1.2×Magnitude,1.22×Value)	12	0.1
-SR-icon-ingredient-Congealed Putrescence.png	Congealed Putrescence
-FExxx807	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Ravage Health Ravage Health (1.5×Magnitude,3.34×Value)	Restore Magicka Restore Magicka (1.2×Magnitude,1.22×Value)	Weakness to Fire Weakness to Fire (1.33×Magnitude,1.36×Value)	Fortify Conjuration Fortify Conjuration (1.2×Magnitude,1.22×Value)	9	0.1
-SR-icon-ingredient-Corkbulb Root.png	Corkbulb Root
-FExxx809	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Paralysis Paralysis (2×Duration,2.14×Value)	Restore Health Restore Health (1.2×Magnitude,1.22×Value)	Resist Shock Resist Shock (1.33×Magnitude,1.36×Value)	Fortify Marksman Fortify Marksman (1.25×Magnitude,1.27×Value)	30	0.1
-SR-icon-ingredient-Daedra Silk.png	Daedra Silk
-FExxx80A	Originating from the planes of Oblivion. One of the Rare Curios sold by Khajiit trade caravans.
-Lingering Damage Stamina Lingering Damage Stamina (2×Magnitude,2.14×Value)	Paralysis Paralysis (2×Duration,2.14×Value)	Night Eye Night Eye	Invisibility Invisibility (1.5×Duration,1.56×Value)	50	0.5
-SR-icon-ingredient-Daedra Venin.png	Daedra Venin
-FExxx80B	Originating from the planes of Oblivion. One of the Rare Curios sold by Khajiit trade caravans.
-Ravage Health Ravage Health (1.5×Magnitude,3.34×Value)	Paralysis Paralysis (2×Duration,2.14×Value)	Fortify Destruction Fortify Destruction (1.2×Magnitude,1.22×Value)	Spell Absorption Spell Absorption	50	0.2
-SR-icon-ingredient-Daedroth Teeth.png	Daedroth Teeth
-FExxx826	Originating from the planes of Oblivion. One of the Rare Curios sold by Khajiit trade caravans.
-Resist Frost Resist Frost (1.33×Magnitude,1.36×Value)	Light Light	Damage Magicka Regen Damage Magicka Regen (2×Duration,2.14×Value)	Regenerate Stamina Regenerate Stamina (1.2×Magnitude,1.22×Value)	50	0.5
-SR-icon-ingredient-Dreugh Wax.png	Dreugh Wax
-FExxx827	Originating from Vvardenfell's dreughs or Cyrodiil's land dreughs. One of the Rare Curios sold by Khajiit trade caravans.
-Weakness to Magic Weakness to Magic (1.5×Magnitude,1.56×Value)	Frenzy Frenzy (2×Duration,2.14×Value)	Fortify Enchanting Fortify Enchanting (2×Magnitude,2.14×Value)	Fortify Smithing Fortify Smithing (1.25×Magnitude,1.27×Value)	25	1
-SR-icon-ingredient-Elytra Ichor.png	Elytra Ichor
-FExxx828	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Magicka Restore Magicka (1.2×Magnitude,1.22×Value)	Invisibility Invisibility (1.5×Duration,1.56×Value)	Slow Slow (2×Duration,2.14×Value)	Fear Fear (2×Magnitude,2.14×Value)	30	0.1
-SR-icon-ingredient-Fire Petal.png	Fire Petal
-FExxx829	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Damage Health Damage Health (1.5×Magnitude,1.56×Value)	Resist Fire Resist Fire (1.33×Magnitude,1.36×Value)	Spell Absorption Spell Absorption	Paralysis Paralysis (2×Duration,2.14×Value)	30	0.1
-SR-icon-ingredient-Flame Stalk.png	Flame Stalk
-xx095E23	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Health Restore Health (1.2×Magnitude,1.22×Value)	Resist Frost Resist Frost (1.33×Magnitude,1.36×Value)	Weakness to Fire Weakness to Fire (1.33×Magnitude,1.36×Value)	Invisibility Invisibility (1.5×Duration,1.56×Value)	25	0.1
-SR-icon-ingredient-Fungus Stalk.png	Fungus Stalk
-FExxx82B	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Magicka Restore Magicka (1.2×Magnitude,1.22×Value)	Fortify Health Fortify Health (1.25×Magnitude,5×Duration,7.5×Value)	Fortify Stamina Fortify Stamina (1.25×Magnitude,5×Duration,7.5×Value)	Waterbreathing Waterbreathing (1.6×Duration,1.67×Value)	30	0.1
-SR-icon-ingredient-Glassfish.png	Glassfish
-xx0008EE	Caught by Fishing in temperate lakes.
-Restore Magicka Restore Magicka	Invisibility Invisibility	Fortify Illusion Fortify Illusion (0.25×Magnitude,0.21×Value)	Fortify Persuasion Fortify Persuasion	1	0.25
-SR-icon-ingredient-Gnarl Bark.png	Gnarl Bark
-FExxx82C	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Damage Health Damage Health (1.5×Magnitude,1.56×Value)	Regenerate Health Regenerate Health (1.2×Magnitude,1.22×Value)	Fortify Heavy Armor Fortify Heavy Armor (1.5×Magnitude,1.56×Value)	Resist Fire Resist Fire (1.33×Magnitude,1.36×Value)	15	0.1
-SR-icon-ingredient-Gold Kanet.png	Gold Kanet
-FExxx82D	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Paralysis Paralysis (2×Duration,2.14×Value)	Ravage Health Ravage Health (1.5×Magnitude,3.34×Value)	Weakness to Frost Weakness to Frost (1.33×Magnitude,1.36×Value)	Fortify Smithing Fortify Smithing (1.25×Magnitude,1.27×Value)	30	0.1
-SR-icon-ingredient-Goldfish.png	Goldfish
-xx0008EF	Caught by Fishing in temperate lakes in clear weather or in the ponds found in some clearings.
-Restore Stamina Restore Stamina	Fortify Heavy Armor Fortify Heavy Armor	Waterbreathing Waterbreathing	Resist Frost Resist Frost	10	0.25	(?)
-SR-icon-ingredient-Green Butterfly Wing.png	Green Butterfly Wing
-xx059151	Harvested by Saints & Seducers.
-Restore Magicka Restore Magicka	Fear Fear	Slow Slow (6×Duration,0.57×Value)	Invisibility Invisibility	25	0.1
-SR-icon-ingredient-Hackle-Lo Leaf.png	Hackle-Lo Leaf
-FExxx82E	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Stamina Restore Stamina (1.2×Magnitude,1.22×Value)	Paralysis Paralysis (2×Duration,2.14×Value)	Waterbreathing Waterbreathing (1.6×Duration,1.67×Value)	Fortify Restoration Fortify Restoration (1.25×Magnitude,1.27×Value)	30	0.1
-SR-icon-ingredient-Harrada.png	Harrada
-xx024C11	Harvested from the Deadlands, if one has The Cause to go there.
-Damage Health Damage Health (2×Magnitude,2.14×Value)	Damage Magicka Damage Magicka (1.33×Magnitude,1.36×Value)	Paralysis Paralysis	Damage Magicka Regen Damage Magicka Regen	25	0.1
-SR-icon-ingredient-Heart of Order.png	Heart of Order
-FExxx851	Originating from the Shivering Isle during a Graymarch. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Health Restore Health (1.2×Magnitude,1.22×Value)	Fortify Health Fortify Health (1.25×Magnitude,5×Duration,7.5×Value)	Fortify One-handed Fortify One-handed (1.25×Magnitude,1.27×Value)	Fortify Two-handed Fortify Two-handed (1.25×Magnitude,1.27×Value)	40	0.1
-SR-icon-ingredient-Hunger Tongue.png	Hunger Tongue
-FExxx80C	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Weakness to Fire Weakness to Fire (1.33×Magnitude,2×Duration,2.93×Value)	Cure Disease Cure Disease (0.36×Value)	Cure Poison Cure Poison	Fortify Magicka Fortify Magicka (1.25×Magnitude,1.27×Value)	10	0.1
-SR-icon-ingredient-Hydnum Azure Giant Spore.png	Hydnum Azure Giant Spore
-FExxx80D	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Resist Frost Resist Frost (1.33×Magnitude,1.36×Value)	Fortify Health Fortify Health (1.25×Magnitude,5×Duration,7.5×Value)	Regenerate Health Regenerate Health (1.2×Magnitude,1.22×Value)	Light Light	30	0.5
-SR-icon-ingredient-Hypha Facia.png	Hypha Facia
-FExxx80E	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Weakness to Poison Weakness to Poison (1.5×Magnitude,1.56×Value)	Frenzy Frenzy (2×Duration,2.14×Value)	Ravage Stamina Ravage Stamina (1.5×Magnitude,3.34×Value)	Resist Magic Resist Magic (2×Magnitude,2.14×Value)	23	0.1
-SR-icon-ingredient-Imp Gall.png	Imp Gall
-FExxx80F	Originating from Cyrodiil. One of the Rare Curios sold by Khajiit trade caravans.
-Damage Health Damage Health (1.5×Magnitude,1.56×Value)	Weakness to Fire Weakness to Fire (1.33×Magnitude,1.36×Value)	Fortify Barter Fortify Barter (2×Magnitude,2.14×Value)	Cure Poison Cure Poison	15	0.2
-SR-icon-ingredient-Ironwood Fruit.png	Ironwood Fruit
-FExxxF0F	Harvested from the Ironwood Trees found in Iron Tusk Cave.
-Restore Health Restore Health	Resist Fire Resist Fire	Damage Stamina Damage Stamina	Restore Magicka Restore Magicka	5	0.1
-SR-ingredient-Juvenile Mudcrab.png	Juvenile Mudcrab
-xx0008F2	Caught by Fishing on the surface.
-Regenerate Stamina Regenerate Stamina	Fortify Carry Weight Fortify Carry Weight	Cure Disease Cure Disease	Fortify Two-handed Fortify Two-handed	10	0.25
-SR-icon-ingredient-Kagouti Hide.png	Kagouti Hide
-FExxx810	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Lingering Damage Stamina Lingering Damage Stamina (2×Magnitude,2.14×Value)	Night Eye Night Eye	Fortify Carry Weight Fortify Carry Weight (1.25×Magnitude,1.27×Value)	Resist Shock Resist Shock (1.33×Magnitude,1.36×Value)	20	1
-SR-icon-ingredient-Kresh Fiber.png	Kresh Fiber
-FExxx811	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Weakness to Magic Weakness to Magic (1.5×Magnitude,1.56×Value)	Slow Slow (2×Duration,2.14×Value)	Fortify Sneak Fortify Sneak (1.25×Magnitude,1.27×Value)	Fortify Pickpocket Fortify Pickpocket (1.25×Magnitude,1.27×Value)	30	0.1
-SR-icon-ingredient-Lichor.png	Lichor
-FExxx837	Originating from Mankar Camoran's destroyed realm of Oblivion. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Magicka Restore Magicka (1.2×Magnitude,1.22×Value)	Regenerate Magicka Regenerate Magicka (1.2×Magnitude,1.22×Value)	Fortify Magicka Fortify Magicka (1.25×Magnitude,1.27×Value)	Spell Absorption Spell Absorption	15	0.1
-SR-icon-ingredient-Luminous Russula.png	Luminous Russula
-FExxx813	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Lingering Damage Stamina Lingering Damage Stamina (2×Magnitude,2.14×Value)	Lingering Damage Health Lingering Damage Health (2×Magnitude,2.14×Value)	Waterbreathing Waterbreathing (1.6×Duration,1.67×Value)	Fear Fear (2×Magnitude,2.14×Value)	25	0.2
-SR-icon-ingredient-Lyretail Anthias.png	Lyretail Anthias
-xx0008F1	Caught by Fishing in temperate streams and at Evergreen Grove.
-Restore Magicka Restore Magicka	Fortify Alteration Fortify Alteration	Fortify Conjuration Fortify Conjuration	Fortify Carry Weight Fortify Carry Weight	30	0.25
-SR-icon-ingredient-Marshmerrow.png	Marshmerrow
-FExxx814	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Health Restore Health (1.2×Magnitude,1.22×Value)	Fortify Carry Weight Fortify Carry Weight (1.25×Magnitude,1.27×Value)	Weakness to Magic Weakness to Magic (1.5×Magnitude,1.56×Value)	Damage Stamina Damage Stamina (1.33×Magnitude,1.36×Value)	18	0.1
-SR-icon-ingredient-Minotaur Horn.png	Minotaur Horn
-FExxx815	Originating from Cyrodiil. One of the Rare Curios sold by Khajiit trade caravans.
-Resist Poison Resist Poison (1.25×Magnitude,1.27×Value)	Damage Magicka Regen Damage Magicka Regen (2×Duration,2.14×Value)	Regenerate Health Regenerate Health (1.2×Magnitude,1.22×Value)	Regenerate Magicka Regenerate Magicka (1.2×Magnitude,1.22×Value)	55	5
-SR-icon-ingredient-Mort Flesh.png	Mort Flesh
-FExxx80C	Originating from Cyrodiil. Dropped by the zombies from Plague of the Dead.
-Damage Health Damage Health	Damage Magicka Damage Magicka	Damage Magicka Regen Damage Magicka Regen	Frenzy Frenzy	2	0.5	None
-SR-icon-ingredient-Bloodchill Nightshade.png	Nightshade
-xx042A61	A variant of the regular Nightshade that has one less leaf on its stem.
-Damage Health Damage Health	Damage Magicka Regen Damage Magicka Regen	Lingering Damage Stamina Lingering Damage Stamina	Fortify Destruction Fortify Destruction (0.8×Magnitude)	8	0.1	None
-SR-icon-ingredient-Ogre's Teeth.png	Ogre's Teeth
-FExxx816	Originating from Cyrodiil. One of the Rare Curios sold by Khajiit trade caravans.
-Weakness to Shock Weakness to Shock (1.33×Magnitude,1.36×Value)	Resist Poison Resist Poison (1.25×Magnitude,1.27×Value)	Lingering Damage Magicka Lingering Damage Magicka (2×Magnitude,2.12×Value)	Regenerate Health Regenerate Health (1.2×Magnitude,1.22×Value)	50	3
-SR-icon-ingredient-Pearlfish.png	Pearlfish
-xx0008EC	Caught by Fishing in temperate lakes and streams in rainy weather.
-Restore Stamina Restore Stamina	Resist Frost Resist Frost	Fortify Smithing Fortify Smithing	Fortify One-handed Fortify One-handed	15	0.25
-SR-icon-ingredient-Purple Butterfly Wing.png	Purple Butterfly Wing
-xx059153	Harvested by Saints & Seducers.
-Regenerate Health Regenerate Health	Regenerate Magicka Regenerate Magicka	Regenerate Stamina Regenerate Stamina	Paralysis Paralysis	25	0.1
-SR-icon-ingredient-Pygmy Sunfish.png	Pygmy Sunfish
-xx0008ED	Caught by Fishing in temperate lakes in rainy weather.
-Restore Stamina Restore Stamina	Lingering Damage Magicka Lingering Damage Magicka	Damage Magicka Regen Damage Magicka Regen	Fortify Restoration Fortify Restoration	2	0.25
-SR-icon-ingredient-Red Kelp Gas Bladder.png	Red Kelp Gas Bladder
-FExxx817	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Regenerate Stamina Regenerate Stamina (1.2×Magnitude,1.22×Value)	Waterbreathing Waterbreathing (1.6×Duration,1.67×Value)	Cure Disease Cure Disease (0.36×Value)	Fortify Magicka Fortify Magicka (1.25×Magnitude,1.27×Value)	20	0.1
-SR-icon-ingredient-Redwort Flower.png	Redwort Flower
-FExxx818	Originating from Cyrodiil. One of the Rare Curios sold by Khajiit trade caravans.
-Resist Frost Resist Frost (1.33×Magnitude,1.36×Value)	Cure Poison Cure Poison	Damage Health Damage Health (1.5×Magnitude,1.56×Value)	Invisibility Invisibility (1.5×Duration,1.56×Value)	25	0.1
-SR-icon-ingredient-Roobrush.png	Roobrush
-FExxx819	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Weakness to Magic Weakness to Magic (1.5×Magnitude,1.56×Value)	Fortify Sneak Fortify Sneak (1.25×Magnitude,1.27×Value)	Lingering Damage Health Lingering Damage Health (2×Magnitude,2.14×Value)	Cure Poison Cure Poison	20	0.1
-SR-icon-ingredient-Rot Scale.png	Rot Scale
-0100306D	Originating from the Shivering Isle.
-Slow Slow (3×Duration,0.26×Value)	Lingering Damage Health Lingering Damage Health (3×Duration,3.34×Value)	Fear Fear (0.16×Duration,0.14×Value)	Paralysis Paralysis	20	0.1
-SR-icon-ingredient-Saltrice.png	Saltrice
-FExxx81A	Originating from Morrowind. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Stamina Restore Stamina (1.2×Magnitude,1.22×Value)	Fortify Magicka Fortify Magicka (1.25×Magnitude,1.27×Value)	Damage Stamina Regen Damage Stamina Regen (2×Duration,2.14×Value)	Restore Health Restore Health (1.2×Magnitude,1.22×Value)	6	0.1
-SR-icon-ingredient-Scalon Fin.png	Scalon Fin
-FExxx81B	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Waterbreathing Waterbreathing (1.6×Duration,1.67×Value)	Damage Health Damage Health (1.5×Magnitude,1.56×Value)	Lingering Damage Magicka Lingering Damage Magicka (2×Magnitude,2.14×Value)	Damage Magicka Regen Damage Magicka Regen (2×Duration,2.14×Value)	25	0.1
-SR-icon-ingredient-Screaming Maw.png	Screaming Maw
-0100306E	Originating from the Shivering Isle. Harvested by Saints & Seducers.
-Regenerate Magicka Regenerate Magicka (4×Magnitude,0.2×Duration,0.78×Value)	Fortify Alteration Fortify Alteration (1.25×Magnitude1.27×Value)	Invisibility Invisibility (0.25×Duration,0.22×Value)	Regenerate Health Regenerate Health (4×Magnitude,0.03×Duration,0.11×Value)	20	0.1
-SR-icon-ingredient-Scrib Jelly.png	Scrib Jelly
-FExxx81C	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Regenerate Magicka Regenerate Magicka (1.2×Magnitude,1.22×Value)	Cure Poison Cure Poison	Cure Disease Cure Disease (0.36×Value)	Regenerate Stamina Regenerate Stamina (1.2×Magnitude,1.22×Value)	20	0.1
-SR-icon-ingredient-Scrib Jerky.png	Scrib Jerky
-FExxx81D	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Stamina Restore Stamina (1.2×Magnitude,1.22×Value)	Fortify Stamina Fortify Stamina (1.25×Magnitude,1.27×Value)	Paralysis Paralysis (2×Duration,2.14×Value)	Waterbreathing Waterbreathing (1.6×Duration,1.67×Value)	15	0.2
-SR-icon-ingredient-Sload Soap.png	Sload Soap
-FExxx81E	Popular in Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Resist Fire Resist Fire (1.33×Magnitude,1.36×Value)	Fear Fear (2×Magnitude,2.14×Value)	Fortify Conjuration Fortify Conjuration (1.2×Magnitude,1.22×Value)	Fortify Alteration Fortify Alteration (1.25×Magnitude,1.27×Value)	30	0.1
-SR-icon-ingredient-Spadefish.png	Spadefish
-xx0008F3	Caught by Fishing in temperate streams on sunny days, in the Eldergleam Sanctuary, and in the Evergreen Grove.
-Restore Health Restore Health	Fortify Lockpicking Fortify Lockpicking	Fortify Pickpocket Fortify Pickpocket	Cure Disease Cure Disease	15	0.25
-SR-icon-ingredient-Spiddal Stick.png	Spiddal Stick
-xx024C15	Harvested from the Deadlands, if one has The Cause to go there.
-Damage Health Damage Health (2×Magnitude,2.14×Value)	Damage Magicka Damage Magicka (1.33×Magnitude,1.36×Value)	Weakness to Fire Weakness to Fire	Restore Stamina Restore Stamina (0.4×Magnitude, 0.36×Value)	25	0.1
-SR-icon-ingredient-Steel-Blue Entoloma.png	Steel-Blue Entoloma
-FExxx832	Originating from Cyrodiil. Useful to con goblins.
-Restore Magicka Restore Magicka	Fortify Destruction Fortify Destruction	Resist Frost Resist Frost	Fortify Carry Weight Fortify Carry Weight	2	0.1	Khajiit Traders	3
-SR-icon-ingredient-Stoneflower Petals.png	Stoneflower Petals
-FExxx81F	Originating from Vvardenfell. One of the Rare Curios sold by Khajiit trade caravans.
-Weakness to Shock Weakness to Shock (1.33×Magnitude,1.36×Value)	Fortify One-handed Fortify One-handed (1.25×Magnitude,1.27×Value)	Fortify Magicka Fortify Magicka (1.25×Magnitude,1.27×Value)	Fortify Enchanting Fortify Enchanting (2×Magnitude,2.14×Value)	15	0.1
-SR-icon-ingredient-Thorn Hook.png	Thorn Hook
-0100306F	Originating from the Shivering Isle. Harvested by Saints & Seducers.
-Lingering Damage Health Lingering Damage Health	Paralysis Paralysis	Regenerate Magicka Regenerate Magicka (0.6×Magnitude,0.6×Duration,0.32×Value)	Regenerate Health Regenerate Health (0.6×Magnitude,0.6×Duration,0.32×Value)	20	0.1
-SR-icon-ingredient-Void Essence.png	Void Essence
-FExxx820	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Health Restore Health (1.2×Magnitude,1.22×Value)	Fortify Health Fortify Health (1.25×Magnitude,5×Duration,7.5×Value)	Fortify Stamina Fortify Stamina (1.25×Magnitude,5×Duration,7.5×Value)	Regenerate Health Regenerate Health (1.2×Magnitude,1.22×Value)	60	0.2
-SR-icon-ingredient-Watcher's Eye.png	Watcher's Eye
-FExxx821	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Night Eye Night Eye	Fortify Magicka Fortify Magicka (1.25×Magnitude,1.27×Value)	Fortify Illusion Fortify Illusion (5×Magnitude,5.87×Value)	Spell Absorption Spell Absorption	9	0.2
-SR-icon-ingredient-Wild Grass Pod.png	Wild Grass Pod
-xx019D3A	Growing near the entrance to the Runoff Caverns, made wild by Forgotten Seasons.
-Resist Poison Resist Poison	Ravage Magicka Ravage Magicka	Fortify Alteration Fortify Alteration	Restore Magicka Restore Magicka	1	0.1	None
-SR-icon-ingredient-Wisp Stalk Caps.png	Wisp Stalk Caps
-FExxx823	Originating from Cyrodiil. One of the Rare Curios sold by Khajiit trade caravans.
-Damage Health Damage Health (1.5×Magnitude,1.56×Value)	Weakness to Poison Weakness to Poison (1.5×Magnitude,1.56×Value)	Frenzy Frenzy (2×Duration,2.14×Value)	Regenerate Stamina Regenerate Stamina (1.2×Magnitude,1.22×Value)	20	0.1
-SR-icon-ingredient-Withering Moon.png	Withering Moon
-FExxx824	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Restore Magicka Restore Magicka (1.2×Magnitude,1.22×Value)	Spell Absorption Spell Absorption	Fortify Light Armor Fortify Light Armor (1.5×Magnitude,1.56×Value)	Cure Disease Cure Disease (0.36×Value)	5	0.1
-SR-icon-ingredient-Worm's Head Cap.png	Worm's Head Cap
-FExxx825	Originating from the Shivering Isle. One of the Rare Curios sold by Khajiit trade caravans.
-Fortify Lockpicking Fortify Lockpicking (1.5×Magnitude,1.56×Value)	Night Eye Night Eye	Fortify Carry Weight Fortify Carry Weight (1.25×Magnitude,1.27×Value)	Slow Slow (2×Duration,2.14×Value)	30	0.2
+Large Antlers	Restore Stamina	5	0	3	Fortify Stamina	4	60	9	Slow	5	30	19	Damage Stamina Regen	100	5	22
+Small Antlers	Weakness to Poison	2	30	7	Fortify Restoration	4	60	16	Lingering Damage Stamina	1	10	1	Damage Health	2	1	0
+Bear Claws	Restore Stamina	4	0	2	Fortify Health	4	60	11	Fortify One-Handed	4	60	16	Damage Magicka Regen	100	5	36
+Beehive Husk	Resist Poison	2	60	7	Fortify Light Armor	2	60	7	Fortify Sneak	2	60	7	Fortify Destruction	5	60	21
+Honeycomb	Restore Stamina	5	0	3	Fortify Block	2	60	7	Fortify Light Armor	2	60	7	Ravage Stamina	2	10	3
+Rock Warbler Egg	Restore Health	5	0	2	Fortify One-handed	4	60	16	Damage Stamina	3	0	6	Weakness to Magic	2	30	7
+Pine Thrush Egg	Restore Stamina	5	0	3	Fortify Lockpicking	2	30	3	Weakness to Poison	2	30	7	Resist Shock	3	60	12
+Chicken's Egg	Resist Magic	1	60	7	Damage Magicka	100	5	36	Waterbreathing	0	5	13	Lingering Damage Stamina	1	10	1
+Bone Meal	Damage Stamina	3	0	6	Resist Fire	3	60	12	Fortify Conjuration	5	60	10	Ravage Stamina	2	10	3
+Briar Heart	Restore Magicka	5	0	3	Fortify Block	2	60	7	Paralysis	0	1	39	Fortify Magicka	4	60	9
+Hawk's Egg (HF)	Resist Magic	1	60	7	Damage Magicka Regen	100	5	36	Waterbreathing	0	5	13	Lingering Damage Stamina	1	10	1
+Salmon Roe (HF)	Restore Stamina	2	0	1	Waterbreathing	0	60	215	Fortify Magicka	50	5	10	Regenerate Magicka	5	300	24
+Canis Root	Damage Stamina	3	0	6	Fortify One-handed	4	60	16	Fortify Marksman	4	60	16	Paralysis	0	1	39
+Rot Scale (CC)	Slow	5	30	19	Lingering Damage Health	1	30	40	Fear	1	5	2	Paralysis	0	1	39
+Screaming Maw (CC)	Regenerate Magicka	20	60	19	Fortify Alteration	5	60	8	Invisibility	0	1	7	Regenerate Health	20	10	2
+Thorn Hook (CC)	Lingering Damage Health	1	10	12	Paralysis	0	1	39	Regenerate Magicka	3	180	8	Regenerate Health	3	180	8
+Angelfish (CC)	Regenerate Health	5	300	24	Resist Fire	3	60	12	Fortify Marksman	4	60	16	Waterbreathing	0	5	13
+Angler Larvae (CC)	Lingering Damage Health	1	10	12	Regenerate Stamina	5	300	24	Waterbreathing	0	5	13	Fortify Two-handed	4	60	16
+Glassfish (CC)	Restore Magicka	5	0	3	Invisibility	0	4	36	Fortify Illusion	1	60	2	Dummy Effect	0	0	0
+Goldfish (CC)	Restore Stamina	5	0	3	Fortify Heavy Armor	2	60	7	Waterbreathing	0	5	13	Resist Frost	3	60	12
+Juvenile Mudcrab (CC)	Regenerate Stamina	5	300	24	Fortify Carry Weight	4	300	29	Cure Disease	5	0	2	Fortify Two-handed	4	60	16
+Lyretail Anthias (CC)	Restore Magicka	5	0	3	Fortify Alteration	4	60	6	Fortify Conjuration	5	60	10	Fortify Carry Weight	4	300	29
+Pearlfish (CC)	Restore Stamina	5	0	3	Resist Frost	3	60	12	Fortify Smithing	4	30	11	Fortify One-handed	4	60	16
+Spadefish (CC)	Restore Health	5	0	2	Fortify Lockpicking	2	30	3	Fortify Pickpocket	4	60	16	Cure Disease	5	0	2
+Pygmy Sunfish (CC)	Restore Stamina	5	0	3	Lingering Damage Magicka	1	10	10	Damage Magicka Regen	100	5	36	Fortify Restoration	4	60	16
+Mort Flesh (CC)	Damage Health	2	1	0	Damage Magicka	3	0	7	Damage Magicka Regen	100	5	36	Frenzy	1	10	15
+Bliss Bug Thorax (CC)	Weakness to Fire	3	30	6	Resist Fire	3	60	12	Fortify Heavy Armor	2	60	7	Fortify Illusion	1	60	2
+Flame Stalk (CC)	Restore Health	6	0	3	Resist Frost	4	60	16	Weakness to Fire	4	30	9	Invisibility	0	6	57
+Green Butterfly Wing (CC)	Restore Magicka	5	0	3	Fear	1	30	16	Slow	5	30	19	Invisibility	0	4	36
+Purple Butterfly Wing (CC)	Regenerate Health	5	300	24	Regenerate Magicka	5	300	24	Regenerate Stamina	5	300	24	Paralysis	0	1	39
+Alocasia Fruit (CC)	Regenerate Stamina	6	300	30	Light	0	60	3	Ravage Magicka	3	10	3	Regenerate Health	6	300	30
+Ambrosia (CC)	Restore Health	6	0	3	Regenerate Health	6	300	30	Fortify Health	5	60	14	Cure Poison	3	0	0
+Aster Bloom Core (CC)	Resist Magic	2	60	15	Fortify Light Armor	4	60	16	Fortify Block	5	60	21	Paralysis	0	2	85
+Bittergreen Petals (CC)	Lingering Damage Stamina	2	10	3	Invisibility	0	6	57	Cure Poison	2	0	0	Damage Magicka	4	0	10
+Blister Pod Cap (CC)	Restore Magicka	6	0	4	Fortify Magicka	5	60	12	Night Eye	0	60	5	Invisibility	0	6	57
+Bog Beacon (CC)	Restore Magicka	6	0	4	Fortify Heavy Armor	3	60	12	Fear	2	30	35	Damage Stamina	4	0	8
+Bungler's Bane (CC)	Slow	50	10	73	Ravage Stamina	3	20	11	Damage Stamina Regen	100	10	47	Resist Magic	2	60	15
+Chokeberry (CC)	Damage Health	3	1	0	Ravage Health	3	20	2	Lingering Damage Health	2	10	25	Weakness to Poison	3	30	11
+Chokeweed (CC)	Weakness to Frost	4	30	7	Restore Stamina	6	0	4	Cure Disease	2	0	1	Damage Magicka	4	0	10
+Coda Flower (CC)	Damage Health	3	1	0	Lingering Damage Stamina	2	10	3	Ravage Magicka	3	10	3	Fortify Carry Weight	5	300	37
+Comberry (CC)	Damage Stamina	4	0	8	Spell Absorption	50	60	53	Restore Magicka	6	0	4	Fortify Destruction	6	60	25
+Congealed Putrescence (CC)	Ravage Health	3	20	2	Restore Magicka	6	0	4	Weakness to Fire	4	30	9	Fortify Conjuration	6	60	12
+Corkbulb Root (CC)	Paralysis	0	2	85	Restore Health	6	0	3	Resist Shock	4	60	16	Fortify Marksman	5	60	21
+Daedra Silk (CC)	Lingering Damage Stamina	2	10	3	Paralysis	0	2	85	Night Eye	0	60	5	Invisibility	0	6	57
+Daedra Venin (CC)	Ravage Health	3	20	2	Paralysis	0	2	85	Fortify Destruction	6	60	25	Spell Absorption	50	60	53
+Daedroth Teeth (CC)	Resist Frost	4	60	16	Light	0	60	3	Damage Magicka Regen	100	10	79	Regenerate Stamina	6	300	30
+Dreugh Wax (CC)	Weakness to Magic	3	30	11	Frenzy	1	20	32	Fortify Enchanting	2	30	4	Fortify Smithing	5	30	14
+Elytra Ichor (CC)	Restore Magicka	6	0	4	Invisibility	0	6	57	Slow	5	10	73	Fear	2	30	35
+Fire Petal (CC)	Damage Health	3	1	0	Resist Fire	4	60	16	Spell Absorption	50	60	53	Paralysis	0	2	85
+Flame Stalk (CC)	Restore Health	6	0	3	Resist Frost	4	60	16	Weakness to Fire	4	30	9	Invisibility	0	6	57
+Fungus Stalk (CC)	Restore Magicka	6	0	4	Fortify Health	5	300	86	Fortify Stamina	5	300	74	Waterbreathing	0	8	23
+Gnarl Bark (CC)	Damage Health	3	1	0	Regenerate Health	6	300	30	Fortify Heavy Armor	3	60	12	Resist Fire	4	60	16
+Gold Kanet (CC)	Paralysis	0	2	85	Ravage Health	3	20	2	Weakness to Frost	4	30	7	Fortify Smithing	5	30	14
+Hackle-Lo Leaf (CC)	Restore Stamina	6	0	4	Paralysis	0	2	85	Waterbreathing	0	8	23	Fortify Restoration	5	60	21
+Heart of Order (CC)	Restore Health	6	0	3	Fortify Health	5	300	86	Fortify One-handed	5	60	21	Fortify Two-handed	5	60	21
+Hunger Tongue (CC)	Weakness to Fire	4	60	19	Cure Disease	2	0	1	Cure Poison	2	0	0	Fortify Magicka	5	60	12
+Hydnum Azure Giant Spore (CC)	Resist Frost	4	60	16	Fortify Health	5	300	86	Regenerate Health	6	300	30	Light	0	60	3
+Hypha Facia (CC)	Weakness to Poison	3	30	11	Frenzy	1	20	32	Ravage Stamina	3	20	11	Resist Magic	2	60	15
+Imp Gall (CC)	Damage Health	3	1	0	Weakness to Fire	4	30	9	Fortify Barter	2	30	14	Cure Poison	2	0	0
+Kagouti Hide (CC)	Lingering Damage Stamina	2	10	3	Night Eye	0	60	5	Fortify Carry Weight	5	300	37	Resist Shock	4	60	16
+Kresh Fiber (CC)	Weakness to Magic	3	30	11	Slow	50	10	73	Fortify Sneak	5	60	21	Fortify Pickpocket	5	60	21
+Lichor (CC)	Restore Magicka	6	0	4	Regenerate Magicka	6	300	30	Fortify Magicka	5	60	12	Spell Absorption	50	60	53
+Luminous Russula (CC)	Lingering Damage Stamina	2	10	3	Lingering Damage Health	2	10	25	Waterbreathing	0	8	23	Fear	2	30	35
+Marshmerrow (CC)	Restore Health	6	0	3	Fortify Carry Weight	5	300	37	Weakness to Magic	3	30	11	Damage Stamina	4	0	8
+Minotaur Horn (CC)	Resist Poison	5	60	21	Damage Magicka Regen	100	10	79	Regenerate Health	6	300	30	Regenerate Magicka	6	300	30
+Ogre's Teeth (CC)	Weakness to Shock	4	30	10	Resist Poison	5	60	21	Lingering Damage Magicka	2	10	21	Regenerate Health	6	300	30
+Red Kelp Gas Bladder (CC)	Regenerate Stamina	6	300	30	Waterbreathing	0	8	23	Cure Disease	2	0	1	Fortify Magicka	5	60	12
+Redwort Flower (CC)	Resist Frost	4	60	16	Cure Poison	2	0	0	Damage Health	3	1	0	Invisibility	0	6	57
+Roobrush (CC)	Weakness to Magic	3	30	11	Fortify Sneak	5	60	21	Lingering Damage Health	2	10	25	Cure Poison	2	0	0
+Saltrice (CC)	Restore Stamina	6	0	4	Fortify Magicka	5	60	12	Damage Stamina Regen	100	10	47	Restore Health	6	0	3
+Scalon Fin (CC)	Waterbreathing	0	8	23	Damage Health	3	1	0	Lingering Damage Magicka	2	10	21	Damage Magicka Regen	100	10	79
+Scrib Jelly (CC)	Regenerate Magicka	6	300	30	Cure Poison	2	0	0	Cure Disease	2	0	1	Regenerate Stamina	6	300	30
+Scrib Jerky (CC)	Restore Stamina	6	0	4	Fortify Stamina	5	300	74	Paralysis	0	2	85	Waterbreathing	0	8	23
+Sload Soap (CC)	Resist Fire	4	60	16	Fear	2	30	35	Fortify Conjuration	6	60	12	Fortify Alteration	5	60	8
+Stoneflower Petals (CC)	Weakness to Shock	4	30	10	Fortify One-handed	5	60	21	Fortify Magicka	5	60	12	Fortify Enchanting	2	30	4
+Void Essence (CC)	Restore Health	6	0	3	Fortify Health	5	300	86	Fortify Stamina	5	300	74	Regenerate Health	6	300	30
+Watcher's Eye (CC)	Night Eye	0	60	5	Fortify Magicka	5	60	12	Fortify Illusion	5	60	16	Spell Absorption	50	60	53
+Blind Watcher's Eye (CC)	Light	0	60	3	Fortify Magicka	5	60	12	Fortify Alteration	5	60	8	Spell Absorption	50	60	53
+Wisp Stalk Caps (CC)	Damage Health	3	1	0	Weakness to Poison	3	30	11	Frenzy	1	20	32	Regenerate Stamina	6	300	30
+Withering Moon (CC)	Restore Magicka	6	0	4	Spell Absorption	50	60	53	Fortify Light Armor	3	60	12	Cure Disease	2	0	1
+Worm's Head Cap (CC)	Fortify Lockpicking	3	30	5	Night Eye	0	60	5	Fortify Carry Weight	5	300	37	Slow	50	10	73
+Steel-Blue Entoloma (CC)	Restore Magicka	5	0	3	Fortify Destruction	5	60	21	Resist Frost	3	60	12	Fortify Carry Weight	4	300	29
+Bloodgrass (CC)	Invisibility	0	4	36	Resist Poison	4	60	16	Slow	5	30	19	Fortify Health	5	60	14
+Harrada (CC)	Damage Health	4	1	1	Damage Magicka	4	0	10	Paralysis	0	1	39	Damage Magicka Regen	100	5	36
+Spiddal Stick (CC)	Damage Health	4	1	1	Damage Magicka	4	0	10	Weakness to Fire	3	30	6	Restore Stamina	2	0	1
+Ironwood Fruit (CC)	Restore Health	5	0	2	Resist Fire	3	60	12	Damage Stamina	3	0	6	Restore Magicka	5	0	3
+Wild Grass Pod (CC)	Resist Poison	4	60	16	Ravage Magicka	2	10	2	Fortify Alteration	4	60	6	Restore Magicka	5	0	3
+Charred Skeever Hide	Restore Stamina	5	0	3	Cure Disease	2	0	1	Resist Poison	4	60	16	Restore Health	5	0	2
+Chaurus Eggs	Weakness to Poison	2	30	7	Fortify Stamina	4	60	9	Damage Magicka	3	0	7	Invisibility	0	4	36
+Creep Cluster	Restore Magicka	5	0	3	Damage Stamina Regen	100	5	22	Fortify Carry Weight	4	300	29	Weakness to Magic	2	30	7
+Bee	Restore Stamina	5	0	3	Ravage Stamina	2	10	3	Regenerate Stamina	5	300	24	Weakness to Shock	3	30	7
+Silverside Perch	Restore Stamina	5	0	3	Damage Stamina Regen	100	5	22	Ravage Health	2	10	0	Resist Frost	3	60	12
+Abecean Longfin	Weakness to Frost	3	30	5	Fortify Sneak	4	60	16	Weakness to Poison	2	30	7	Fortify Restoration	4	60	16
+River Betty	Damage Health	5	0	17	Fortify Alteration	4	60	6	Slow	50	5	34	Fortify Carry Weight	4	300	29
+Cyrodilic Spadetail	Damage Stamina	3	0	6	Fortify Restoration	4	60	16	Fear	1	30	16	Ravage Health	2	10	0
+Histcarp	Restore Stamina	5	0	3	Fortify Magicka	4	60	9	Damage Stamina Regen	100	5	22	Waterbreathing	0	5	13
+Daedra Heart	Restore Health	5	0	2	Damage Stamina Regen	100	5	22	Damage Magicka	3	0	7	Fear	1	30	16
+Deathbell	Damage Health	3	1	0	Ravage Stamina	2	20	7	Slow	50	5	34	Weakness to Poison	2	30	7
+Chaurus Hunter Antennae (DG)	Damage Stamina	3	0	6	Fortify Conjuration	5	60	10	Damage Magicka Regen	100	5	36	Fortify Enchanting	1	30	2
+Gleamblossom (DG)	Resist Magic	1	60	7	Fear	1	30	16	Regenerate Health	5	300	24	Paralysis	0	1	39
+Ancestor Moth Wing (DG)	Damage Stamina	3	0	6	Fortify Conjuration	5	60	10	Damage Magicka Regen	100	5	36	Fortify Enchanting	1	30	2
+Poison Bloom (DG)	Damage Health	3	1	0	Slow	50	5	34	Fortify Carry Weight	4	300	29	Fear	1	30	16
+Yellow Mountain Flower (DG)	Resist Poison	4	60	16	Fortify Restoration	5	60	21	Fortify Health	4	60	11	Damage Stamina Regen	100	5	22
+Ash Creep Cluster (DB)	Damage Stamina	3	0	6	Invisibility	0	4	36	Resist Fire	3	60	12	Fortify Destruction	5	60	21
+Ash Hopper Jelly (DB)	Restore Health	5	0	2	Fortify Light Armor	2	60	7	Resist Shock	3	60	12	Weakness to Frost	3	30	5
+Boar Tusk (DB)	Fortify Stamina	5	300	74	Fortify Health	4	300	67	Fortify Block	4	60	16	Frenzy	1	10	15
+Burnt Spriggan Wood (DB)	Weakness to Fire	3	30	6	Fortify Alteration	4	60	6	Damage Magicka Regen	100	5	36	Slow	50	5	34
+Spawn Ash (DB)	Ravage Stamina	2	10	3	Resist Fire	3	60	12	Fortify Enchanting	1	30	2	Ravage Magicka	2	10	2
+Emperor Parasol Moss (DB)	Damage Health	3	0	10	Fortify Magicka	4	60	9	Regenerate Health	5	300	24	Fortify Two-handed	4	60	16
+Netch Jelly (DB)	Paralysis	0	1	39	Fortify Carry Weight	4	300	29	Restore Stamina	10	0	7	Fear	1	30	16
+Scathecraw (DB)	Ravage Health	2	10	0	Ravage Stamina	2	10	3	Ravage Magicka	2	10	2	Lingering Damage Health	1	10	12
+Ashen Grass Pod (DB)	Resist Fire	4	60	16	Weakness to Shock	3	30	7	Fortify Lockpicking	2	30	3	Fortify Sneak	4	60	16
+Felsaad Tern Feathers (DB)	Restore Health	1	0	0	Fortify Light Armor	2	60	7	Cure Disease	5	0	2	Resist Magic	1	60	7
+Trama Root (DB)	Weakness to Shock	3	30	7	Fortify Carry Weight	4	300	29	Damage Magicka	3	0	7	Slow	50	5	34
+Blue Dartwing	Resist Shock	3	60	12	Fortify Pickpocket	4	60	16	Restore Health	5	0	2	Fear	1	30	16
+Orange Dartwing	Restore Stamina	5	0	3	Ravage Magicka	2	10	2	Fortify Pickpocket	4	60	16	Lingering Damage Health	1	10	12
+Dragon's Tongue	Resist Fire	3	60	12	Fortify Barter	1	30	6	Fortify Illusion	1	60	2	Fortify Two-handed	4	60	16
+Dwarven Oil	Weakness to Magic	2	30	7	Fortify Illusion	4	60	13	Regenerate Magicka	5	300	24	Restore Magicka	5	0	3
+Ectoplasm	Restore Magicka	5	0	3	Fortify Destruction	4	60	16	Fortify Magicka	4	60	9	Damage Health	2	1	0
+Elves Ear	Restore Magicka	5	0	3	Fortify Marksman	4	60	16	Weakness to Frost	2	30	3	Resist Fire	3	30	5
+Falmer Ear	Damage Health	2	1	0	Frenzy	1	10	15	Resist Poison	4	60	16	Fortify Lockpicking	2	30	3
+Torchbug Thorax	Restore Stamina	5	0	3	Lingering Damage Magicka	1	10	10	Weakness to Magic	2	30	7	Fortify Stamina	4	60	9
+Fire Salts	Weakness to Frost	3	30	5	Resist Fire	3	60	12	Restore Magicka	5	0	3	Regenerate Magicka	5	300	24
+Frost Mirriam	Resist Frost	3	60	12	Fortify Sneak	4	60	16	Ravage Magicka	2	10	2	Damage Stamina Regen	100	5	22
+Frost Salts	Weakness to Fire	3	30	6	Resist Frost	3	60	12	Restore Magicka	5	0	3	Fortify Conjuration	5	60	10
+Garlic	Resist Poison	4	60	16	Fortify Stamina	4	60	9	Regenerate Magicka	5	300	24	Regenerate Health	5	300	24
+Giant Lichen	Weakness to Shock	3	30	7	Ravage Health	2	10	0	Weakness to Poison	2	30	7	Restore Magicka	5	0	3
+Giant's Toe	Damage Stamina	3	0	6	Fortify Health	4	300	67	Fortify Carry Weight	4	300	29	Damage Stamina Regen	100	5	22
+Glow Dust	Damage Magicka	3	0	7	Damage Magicka Regen	100	5	36	Fortify Destruction	5	60	21	Resist Shock	3	60	12
+Glowing Mushroom	Resist Shock	3	60	12	Fortify Destruction	5	60	21	Fortify Smithing	4	30	11	Fortify Health	4	60	11
+Hagraven Claw	Resist Magic	1	60	7	Lingering Damage Magicka	1	10	10	Fortify Enchanting	1	30	2	Fortify Barter	1	30	6
+Hagraven Feathers	Damage Magicka	3	0	7	Fortify Conjuration	5	60	10	Frenzy	1	10	15	Weakness to Shock	3	30	7
+Hanging Moss	Damage Magicka	3	0	7	Fortify Health	4	60	11	Damage Magicka Regen	100	5	36	Fortify One-handed	4	60	16
+Hawk Beak	Restore Stamina	5	0	3	Resist Frost	3	60	12	Fortify Carry Weight	4	300	29	Resist Shock	3	60	12
+Hawk Feathers	Cure Disease	2	0	1	Fortify Light Armor	2	60	7	Fortify One-handed	4	60	16	Fortify Sneak	4	60	16
+Human Flesh	Damage Health	2	1	0	Paralysis	0	1	39	Restore Magicka	5	0	3	Fortify Sneak	4	60	16
+Human Heart	Damage Health	2	1	0	Damage Magicka	3	0	7	Damage Magicka Regen	100	5	36	Frenzy	1	10	15
+Ice Wraith Teeth	Weakness to Frost	3	30	5	Fortify Heavy Armor	2	60	7	Invisibility	0	4	36	Weakness to Fire	3	30	6
+Jazbay Grapes	Weakness to Magic	2	30	7	Fortify Magicka	4	60	9	Regenerate Magicka	5	300	24	Ravage Health	2	10	0
+Juniper Berries	Weakness to Fire	3	30	6	Fortify Marksman	4	60	16	Regenerate Health	5	300	24	Damage Stamina Regen	100	5	22
+Lavender	Resist Magic	1	60	7	Fortify Stamina	4	60	9	Ravage Magicka	2	10	2	Fortify Conjuration	4	60	8
+Moon Sugar	Weakness to Fire	3	30	6	Resist Frost	3	60	12	Restore Magicka	5	0	3	Regenerate Magicka	5	300	24
+Mora Tapinella	Restore Magicka	5	0	3	Lingering Damage Health	1	10	12	Regenerate Stamina	5	300	24	Fortify Illusion	4	60	13
+Blue Butterfly Wing	Damage Stamina	3	0	6	Fortify Conjuration	5	60	10	Damage Magicka Regen	100	5	36	Fortify Enchanting	1	30	2
+Luna Moth Wing	Damage Magicka	3	0	7	Fortify Light Armor	2	60	7	Regenerate Health	5	300	24	Invisibility	0	4	36
+Butterfly Wing	Restore Health	5	0	2	Fortify Barter	1	30	6	Lingering Damage Stamina	1	10	1	Damage Magicka	3	0	7
+Blue Mountain Flower	Restore Health	5	0	2	Fortify Conjuration	5	60	10	Fortify Health	4	60	11	Damage Magicka Regen	100	5	36
+Purple Mountain Flower	Restore Stamina	5	0	3	Fortify Sneak	4	60	16	Lingering Damage Magicka	1	10	10	Resist Frost	3	60	12
+Red Mountian Flower	Restore Magicka	5	0	3	Ravage Magicka	2	10	2	Fortify Magicka	4	60	9	Damage Health	2	1	0
+Salt Pile	Weakness to Magic	2	30	7	Fortify Restoration	4	60	16	Slow	50	5	34	Regenerate Magicka	5	300	24
+Mudcrab Chitin	Restore Stamina	5	0	3	Cure Disease	5	0	2	Resist Poison	4	60	16	Resist Fire	3	60	12
+Fly Amanita	Resist Fire	3	60	12	Fortify Two-handed	4	60	16	Frenzy	1	10	15	Regenerate Stamina	5	300	24
+Bleeding Crown	Weakness to Fire	3	30	6	Fortify Block	4	60	16	Weakness to Poison	2	30	7	Resist Magic	1	60	7
+White Cap	Weakness to Frost	3	30	5	Fortify Heavy Armor	2	60	7	Restore Magicka	5	0	3	Ravage Magicka	2	10	2
+Imp Stool	Damage Health	2	1	0	Lingering Damage Health	1	10	12	Paralysis	0	1	39	Restore Health	3	0	1
+Namira's Rot	Damage Magicka	3	0	7	Fortify Lockpicking	2	30	3	Fear	1	30	16	Regenerate Health	5	300	24
+Blisterwort	Damage Stamina	3	0	6	Frenzy	1	10	15	Restore Health	3	0	1	Fortify Smithing	4	30	11
+Nightshade	Damage Health	2	1	0	Damage Magicka Regen	100	5	36	Lingering Damage Stamina	1	10	1	Fortify Destruction	4	60	16
+Nirnroot	Damage Health	2	0	6	Damage Stamina	3	0	6	Invisibility	0	4	36	Resist Magic	1	60	7
+Crimson Nirnroot	Damage Health	2	0	6	Damage Stamina	3	0	6	Invisibility	0	4	36	Resist Magic	1	60	7
+Nordic Barnacle	Damage Magicka	3	0	7	Waterbreathing	0	5	13	Regenerate Health	5	300	24	Fortify Pickpocket	4	60	16
+Pearl	Restore Stamina	5	0	3	Fortify Block	4	60	16	Restore Magicka	5	0	3	Resist Shock	3	60	12
+Small Pearl	Restore Stamina	5	0	3	Fortify One-handed	4	60	16	Fortify Restoration	4	60	16	Resist Frost	3	60	12
+Powdered Mammoth Tusk	Restore Stamina	5	0	3	Fortify Sneak	4	60	16	Weakness to Fire	3	30	6	Fear	1	30	16
+Aloe Vera Leaves	Restore Health	5	0	2	Restore Stamina	5	0	3	Damage Magicka	5	0	12	Invisibility	0	2	17
+Eye of Sabre Cat	Restore Stamina	5	0	3	Ravage Health	2	10	0	Damage Magicka	3	0	7	Restore Health	5	0	2
+Sabre Cat Tooth	Restore Stamina	5	0	2	Fortify Heavy Armor	2	60	7	Fortify Smithing	4	30	11	Weakness to Poison	2	30	7
+Salt Pile	Weakness to Magic	2	30	7	Fortify Restoration	4	60	16	Slow	50	5	34	Regenerate Magicka	5	300	24
+Scaly Pholiota	Weakness to Magic	2	30	7	Fortify Illusion	4	60	13	Regenerate Stamina	5	300	24	Fortify Carry Weight	4	300	29
+Skeever Tail	Damage Stamina Regen	100	5	22	Ravage Health	2	10	0	Damage Health	2	1	0	Fortify Light Armor	2	60	7
+Slaughterfish Egg	Resist Poison	4	60	16	Fortify Pickpocket	4	60	16	Lingering Damage Health	1	10	12	Fortify Stamina	4	60	9
+Slaughterfish Scales	Resist Frost	3	60	12	Lingering Damage Health	1	10	12	Fortify Heavy Armor	2	60	7	Fortify Block	4	60	16
+Snowberries	Resist Fire	3	60	12	Fortify Enchanting	1	30	2	Resist Frost	3	60	12	Resist Shock	3	60	12
+Spider Egg	Damage Stamina	3	0	6	Damage Magicka Regen	100	5	36	Fortify Lockpicking	2	30	3	Fortify Marksman	4	60	16
+Grass Pod	Resist Poison	4	60	16	Ravage Magicka	2	10	2	Fortify Alteration	4	60	6	Restore Magicka	5	0	3
+Spriggan Sap	Damage Magicka Regen	100	5	36	Fortify Enchanting	1	30	2	Fortify Smithing	4	30	11	Fortify Alteration	4	60	6
+Swamp Fungal Pod	Resist Shock	3	60	12	Lingering Damage Magicka	1	10	10	Paralysis	0	1	39	Restore Health	5	0	2
+Taproot	Weakness to Magic	2	30	7	Fortify Illusion	4	60	13	Regenerate Magicka	5	300	24	Restore Magicka	5	0	3
+Thistle Branch	Resist Frost	3	60	12	Ravage Stamina	2	10	3	Resist Poison	3	0	1	Fortify Heavy Armor	2	60	7
+Troll Fat	Resist Poison	4	60	16	Fortify Two-handed	4	60	16	Frenzy	1	10	15	Damage Health	2	1	0
+Tundra Cotton	Resist Magic	1	60	7	Fortify Magicka	4	60	9	Fortify Block	4	60	16	Fortify Barter	1	30	6
+Vampire Dust	Invisibility	0	4	36	Restore Magicka	5	0	3	Regenerate Health	5	300	24	Cure Disease	5	0	2
+Void Salts	Weakness to Shock	3	30	7	Resist Magic	1	60	7	Damage Health	2	1	0	Fortify Magicka	4	60	9
+Wheat	Restore Health	5	0	2	Fortify Health	4	60	11	Damage Stamina Regen	100	5	22	Lingering Damage Magicka	1	10	10
+Wisp Wrappings	Restore Stamina	5	0	3	Fortify Destruction	5	60	21	Fortify Carry Weight	4	300	29	Resist Magic	1	60	7

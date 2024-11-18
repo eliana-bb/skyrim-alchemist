@@ -1,0 +1,59 @@
+Cure Disease	0.5	Mag	Pos
+Cure Poison	0.2	Mag	Pos
+Damage Health	3	Mag	Neg
+Damage Magicka	2.2	Mag	Neg
+Damage Magicka Regen	0.5	Dur	Neg
+Damage Stamina	1.8	Mag	Neg
+Damage Stamina Regen	0.3	Dur	Neg
+Fear	5	Mag	Neg
+Fortify Alteration	0.2	Mag	Pos
+Fortify Barter	2	Mag	Pos
+Fortify Block	0.5	Mag	Pos
+Fortify Carry Weight	0.15	Mag	Pos
+Fortify Conjuration	0.25	Mag	Pos
+Fortify Destruction	0.5	Mag	Pos
+Fortify Enchanting	0.6	Mag	Pos
+Fortify Health	0.35	Mag	Pos
+Fortify Heavy Armor	0.5	Mag	Pos
+Fortify Illusion	0.4	Mag	Pos
+Fortify Light Armor	0.5	Mag	Pos
+Fortify Lockpicking	0.5	Mag	Pos
+Fortify Magicka	0.3	Mag	Pos
+Fortify Marksman	0.5	Mag	Pos
+Fortify One-handed	0.5	Mag	Pos
+Fortify Pickpocket	0.5	Mag	Pos
+Fortify Restoration	0.5	Mag	Pos
+Fortify Smithing	0.75	Mag	Pos
+Fortify Sneak	0.5	Mag	Pos
+Fortify Stamina	0.3	Mag	Pos
+Fortify Two-handed	0.5	Mag	Pos
+Frenzy	15	Mag	Neg
+Invisibility	100	Dur	Pos
+Light	0.5	Dur	Pos
+Lingering Damage Health	12	Mag	Neg
+Lingering Damage Magicka	10	Mag	Neg
+Lingering Damage Stamina	1.8	Mag	Neg
+Night Eye	0.75	Dur	Pos
+Paralysis	500	Dur	Neg
+Ravage Health	0.4	Mag	Neg
+Ravage Magicka	1	Mag	Neg
+Ravage Stamina	1.6	Mag	Neg
+Regenerate Health	0.1	Mag	Pos
+Regenerate Magicka	0.1	Mag	Pos
+Regenerate Stamina	0.1	Mag	Pos
+Resist Fire	0.5	Mag	Pos
+Resist Frost	0.5	Mag	Pos
+Resist Magic	1	Mag	Pos
+Resist Poison	0.5	Mag	Pos
+Resist Shock	0.5	Mag	Pos
+Restore Health	0.5	Mag	Pos
+Restore Magicka	0.6	Mag	Pos
+Restore Stamina	0.6	Mag	Pos
+Slow	1	Dur	Neg
+Spell Absorption	0.1	Dur	Pos
+Waterbreathing	30	Dur	Pos
+Weakness to Fire	0.6	Mag	Neg
+Weakness to Frost	0.5	Mag	Neg
+Weakness to Magic	1	Mag	Neg
+Weakness to Poison	1	Mag	Neg
+Weakness to Shock	0.7	Mag	Neg
