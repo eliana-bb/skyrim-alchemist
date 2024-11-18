@@ -559,7 +559,7 @@ ingredients = {
                       {'cost': 36,
                        'duration': 5,
                        'magnitude': 100,
-                       'mgef': 'Damage Magicka'},
+                       'mgef': 'Damage Magicka Regen'},
                       {'cost': 13,
                        'duration': 5,
                        'magnitude': 0,
